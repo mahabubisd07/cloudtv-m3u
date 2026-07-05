@@ -1,579 +1,263 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/mahabubisd07/cloudtv-m3u/main/epg.xml" x-tvg-url="https://raw.githubusercontent.com/mahabubisd07/cloudtv-m3u/main/epg.xml"
 #EXTINF:-1 tvg-id="1782145624185" tvg-chno="1" tvg-name="FIFA (S0)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="0_FIFA",FIFA (S0)
-http://172.19.178.148:18190/mu8/index.m3u8?token=239e43555e8892a379a5759b28b831bffb5ac585-e919c435b05da147a633cf036296e9a1-1782506988-1782495888
+http://172.19.178.148:18190/mu8/index.m3u8?token=c61a30e0f78fe2147a838a2cc2d286d7abebe1ea-0f248a78382bfea922266c81227fb29b-1783273850-1783262750
 #EXTINF:-1 tvg-id="1781903059100" tvg-chno="2" tvg-name="FIFA (S01)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="0_FIFA",FIFA (S01)
-http://172.19.178.149:18190/fifa8/index.m3u8?token=191a66b5d3e550514f69ff2a4bf5f5f691b9b01d-a5e0fccfe37e119dd1f26477c17d8c26-1782506988-1782495888
+http://172.19.178.149:18190/fifa102/index.m3u8?token=40c889efb5d81f52132dd8bf031f9c74605a04c5-8b32abcd4adefa28e8bffc8c5e0e6b34-1783273850-1783262750
 #EXTINF:-1 tvg-id="1781902591905" tvg-chno="3" tvg-name="FIFA (S02)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="0_FIFA",FIFA (S02)
-http://172.19.178.49:18190/unite8-sports-1/index.m3u8?token=2667cde7497193e19b1b648135cb4610a453c924-f86f6bbe1b2df4f00193486bb296e935-1782506988-1782495888
+http://172.19.178.49:18190/unite8-sports-1/index.m3u8?token=3de9ee37edb6929b4018d8cd3a877f3c7fe3bed4-1f828175a1f842aa1dcfdfee1264561c-1783273850-1783262750
 #EXTINF:-1 tvg-id="1781902491838" tvg-chno="4" tvg-name="FIFA (S03)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="0_FIFA",FIFA (S03)
-http://172.19.178.49:18190/unite8-sports-2/index.m3u8?token=e379ae4f56336d05354a61d5e83d94dc2e705133-97dcbeef906c839cec28180e0a6a263a-1782506988-1782495888
+http://172.19.178.49:18190/unite8-sports-2/index.m3u8?token=646808441bd0907e7135d2c4a3b2ca87f2272189-44528519d20febb0ea61024d0e744941-1783273850-1783262750
 #EXTINF:-1 tvg-id="1781278465099" tvg-chno="5" tvg-name="FIFA (S04)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="0_FIFA",FIFA (S04)
-http://172.19.178.29:18190/PC-01/index.m3u8?token=0ce2275af9bc2068403eddceebabdb4a25cec09c-316e941695a48850b1ea6d3c56631b6b-1782506988-1782495888
+http://172.19.178.29:18190/PC-01/index.m3u8?token=8ad1a5ad91dbf4115845d4cbcf7b0095da45c4d6-7581f4ea7207edcdfb53db6cd87ab03f-1783273850-1783262750
 #EXTINF:-1 tvg-id="1781278102279" tvg-chno="6" tvg-name="FIFA (S05)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="0_FIFA",FIFA (S05)
-http://172.19.178.149:18190/fifa_tsnsports4aq/index.m3u8?token=94559a983448393a5bca44ae92aac9cb290f9fe2-4748ae2261c0b41f1d4a1f4c13fbf3f8-1782506988-1782495888
+http://172.19.178.149:18190/fifa_tsnsports4aq/index.m3u8?token=6053efdc8b29797e3b27a7b0715be637b5546c30-00170abe0451305bd1889cb4a67130ac-1783273850-1783262750
 #EXTINF:-1 tvg-id="1781277684102" tvg-chno="7" tvg-name="FIFA (S06)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="0_FIFA",FIFA (S06)
-http://172.19.178.49:18190/t_sports/index.m3u8?token=7821f8adf0d5af1b7f9dddf8e7ded5dbb84b9d19-8eecbdfe6caadb5f98ca0e9fe013cf0d-1782506988-1782495888
+http://172.19.178.49:18190/t_sports/index.m3u8?token=8f7e94836c2848475dc060040b1b64922bb42d39-78972f80b2b2fdf370e952b1e94bd5bd-1783273850-1783262750
 #EXTINF:-1 tvg-id="1781277543795" tvg-chno="8" tvg-name="FIFA (S07)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="0_FIFA",FIFA (S07)
-http://172.19.178.149:18190/ptv_sports/index.m3u8?token=55d04c89a779a4ace6410a49158e95e2ede4677c-a4bc6c91a0074ddc12e832a1c41f44eb-1782506988-1782495888
+http://172.19.178.149:18190/ptv_sports/index.m3u8?token=f8e45a6b9e820d1e81b02b578e5319259bea2dbe-b69294137120bbac01d1ec62688299ce-1783273850-1783262750
 #EXTINF:-1 tvg-id="1781277381136" tvg-chno="9" tvg-name="FIFA (S08)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="0_FIFA",FIFA (S08)
-http://172.19.178.148:18190/btv/index.m3u8?token=a0ed142550b38682224f549d655efa5d0435c906-1d893158174cbbefd69d9cec7c08ed4b-1782506988-1782495888
+http://172.19.178.148:18190/btv/index.m3u8?token=14ff9ed0495c8180c567d20b60d8fb90cb325921-d0541dcc05261d2035c3ffd061c5a50f-1783273850-1783262750
 #EXTINF:-1 tvg-id="1781261544544" tvg-chno="10" tvg-name="FIFA (S09)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="0_FIFA",FIFA (S09)
-http://172.19.178.148:18190/feed_fifa2/index.m3u8?token=f1182360093ef06080447b79ffafabd876743c6f-607c506903a805a3d436de4c227b99b3-1782506988-1782495888
+http://172.19.178.148:18190/feed_fifa2/index.m3u8?token=572dfd621b85896d03feec5d96470a3d4c297066-c7ca0816fb20aeaf136fd58ccc67fd6a-1783273850-1783262750
 #EXTINF:-1 tvg-id="1781261502299" tvg-chno="11" tvg-name="FIFA (S10)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="0_FIFA",FIFA (S10)
-http://172.19.178.149:18190/t_sports_vip/index.m3u8?token=bd5c68361305d772a3974fe8089d94c5829ffbe6-d662657d5e7ee336462a48dced97ec3f-1782506988-1782495888
+http://172.19.178.149:18190/t_sports_vip/index.m3u8?token=c9a44d343d116549f365b52e500855386141b49a-5c01f23ff6c6e232ef2c5999b67e287c-1783273850-1783262750
 #EXTINF:-1 tvg-id="1780232809429" tvg-chno="12" tvg-name="FIFA (S11)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="0_FIFA",FIFA (S11)
-http://172.19.178.49:18190/t_sports_vip/index.m3u8?token=17e4f3af210a5fe1aadc76f5ccbe06bf1a900252-e068169556022d65707324fd3c257aaa-1782506988-1782495888
+http://172.19.178.49:18190/t_sports_vip/index.m3u8?token=8d7ff6f77d139e9389dc17110f8c506a02e20955-1d00501cbcf4e4014149b094c184878c-1783273850-1783262750
 #EXTINF:-1 tvg-id="1781277016889" tvg-chno="13" tvg-name="Eurosport" tvg-logo="http://172.19.178.178/tv/img/eurosport.png" group-title="1_LIVE",Eurosport
-http://172.19.178.29:18190/CD-E01-01/index.m3u8?token=3dfd48345b62e124e4d6cd5f3384e68dc96668ab-3eb574837dce85a4fcbb261a8bfebe8c-1782506988-1782495888
+http://172.19.178.29:18190/CD-E01-01/index.m3u8?token=950756d0ffea8b921c2fe8f45444a42ae86efaf9-2f68dde41ef3520d63177b0812680a49-1783273850-1783262750
 #EXTINF:-1 tvg-id="5564738291" tvg-chno="14" tvg-name="PTV Sports" tvg-logo="http://172.19.178.178/tv/img/ptvsports.png" group-title="1_LIVE",PTV Sports
-http://172.19.178.29:18190/CD-E02-01/index.m3u8?token=31fa7d3eadafc6c06758c467bfc995035a296f11-7f79332f53579dbd4717aa1ab36a70a9-1782506988-1782495888
+http://172.19.178.29:18190/CD-E02-01/index.m3u8?token=006f31aff042fcb0784d09b22ee95a649eea532c-388a0c5e29ec1971657753907cc104bb-1783273850-1783262750
 #EXTINF:-1 tvg-id="1102938475" tvg-chno="15" tvg-name="T Sports" tvg-logo="http://172.19.178.178/tv/img/tsports.png" group-title="1_LIVE",T Sports
-http://172.19.178.29:18190/SN-E01-01/index.m3u8?token=9c71b1cfbaedffe5f96b2fc8370959f8f0e06b5f-a66f5cd31f4e2ff97c20cb1e9f226b00-1782506988-1782495888
+http://172.19.178.29:18190/SN-E01-01/index.m3u8?token=523c23b7add4e24ce7908b5dfcaa8224d7406eb6-6fef3bb90c89d61ee56e6fd5305eccd9-1783273850-1783262750
 #EXTINF:-1 tvg-id="6657483920" tvg-chno="16" tvg-name="Star Jalsha" tvg-logo="http://172.19.178.178/tv/img/starjalsha.png" group-title="1_LIVE",Star Jalsha
-http://172.19.178.29:18190/SN-E02-01/index.m3u8?token=755bf061e557c9d816fc902f847f5f1b8e3d4f12-3ce7a914f1d64daa12b07345977c14a7-1782506988-1782495888
+http://172.19.178.29:18190/SN-E02-01/index.m3u8?token=3a0f82405490d5725ffe079c450251be8dc89e8f-098dc9053febf08f885175581e4f899b-1783273850-1783262750
 #EXTINF:-1 tvg-id="4958671230" tvg-chno="17" tvg-name="Sony Sports Ten 5" tvg-logo="http://172.19.178.178/tv/img/sonysportsten5.png" group-title="1_LIVE",Sony Sports Ten 5
-http://172.19.178.29:18190/SN-E02-02/index.m3u8?token=c242739209fdf8c00fc307c0fbeefa95467f83c2-65fe73ae6e9274d4ba71808379312c67-1782506988-1782495888
+http://172.19.178.29:18190/SN-E02-02/index.m3u8?token=1b27729f64d2467abe114386b7965a04806241bd-5134e370950d9c2f9e875b7c8dc110d1-1783273850-1783262750
 #EXTINF:-1 tvg-id="9182736451" tvg-chno="18" tvg-name="Star Sports Select 1" tvg-logo="http://172.19.178.178/tv/img/starsportsselect1.png" group-title="1_LIVE",Star Sports Select 1
-http://172.19.178.29:18190/SN-E02-03/index.m3u8?token=a98b56d2a4fb3cd3230790a954c28f154fe7310c-e1224aa28f8cd17a64655a4fe17a568c-1782506988-1782495888
+http://172.19.178.29:18190/SN-E02-03/index.m3u8?token=45d1dd978c9434787c911f98869020e841c9b7ae-25940c17dd16480e7f51777ba21d32b7-1783273850-1783262750
 #EXTINF:-1 tvg-id="3847561290" tvg-chno="19" tvg-name="Sony Sports Ten 2" tvg-logo="http://172.19.178.178/tv/img/sonysportsten2.png" group-title="1_LIVE",Sony Sports Ten 2
-http://172.19.178.29:18190/SN-E02-04/index.m3u8?token=677ef0c177d7c9b1a0d9814729e74b8727909d65-22fbac6a56eca7d486847649faa0e253-1782506988-1782495888
+http://172.19.178.29:18190/SN-E02-04/index.m3u8?token=0f5d3440ee00778e76f712893b644383bbd756e0-21eb4c7a110bc160f5256f37eb20943b-1783273850-1783262750
 #EXTINF:-1 tvg-id="1029384762" tvg-chno="20" tvg-name="T Sports" tvg-logo="http://172.19.178.178/tv/img/tvlogo.png" group-title="1_LIVE",T Sports
-http://172.19.178.29:18190/SN-E03-02/index.m3u8?token=2bdbf6a85402aefb5bff08691154d02b4bdadae8-95ee91024cf36419420fe243d370bd19-1782506988-1782495888
+http://172.19.178.29:18190/SN-E03-02/index.m3u8?token=89a315765a52ef9b399ae4a6bacdbdcf3c86f5e5-57ba58d21d98bee06f7992ab8573d825-1783273850-1783262750
 #EXTINF:-1 tvg-id="9988776655" tvg-chno="21" tvg-name="ATN Bangla" tvg-logo="http://172.19.178.178/tv/img/atnbangla.png" group-title="Bangladeshi",ATN Bangla
-http://172.19.178.39:18190/atn_bangla/index.m3u8?token=284b54e8f48842910be3ce929a1d39ec2ab546c0-bb542729817bc475c87e0c8b2b9de998-1782506988-1782495888
+http://172.19.178.39:18190/atn_bangla/index.m3u8?token=e42fce37de986869c006f3407addc12c2748f08d-27ee5b49e9d37eae29388a7f9d35d6b6-1783273850-1783262750
 #EXTINF:-1 tvg-id="7766554433" tvg-chno="22" tvg-name="Asian" tvg-logo="http://172.19.178.178/tv/img/asian.png" group-title="Bangladeshi",Asian
-http://172.19.178.39:18190/asian_tv/index.m3u8?token=3e777ac70c617b9f23b4f739ffaec42d16c94b88-17589fee9f4ff5767ae4fc1f534a5478-1782506988-1782495888
+http://172.19.178.39:18190/asian_tv/index.m3u8?token=33e490052717c135055b9995df6ab76430f11ee7-3d95f130e1bf8a637a965c09e08a87b5-1783273850-1783262750
 #EXTINF:-1 tvg-id="2233445566" tvg-chno="23" tvg-name="Ananda TV" tvg-logo="http://172.19.178.178/tv/img/anandatv.png" group-title="Bangladeshi",Ananda TV
-http://172.19.178.39:18190/ananda_tv/index.m3u8?token=06129cb999bc4f97c4c4f90873167b39ee48572c-b386068d0566819ecbe4459c694557a3-1782506988-1782495888
+http://172.19.178.39:18190/ananda_tv/index.m3u8?token=489099ddecf8853677fa2e9c06511c6e4e35171f-356d303fe96f3cc178b2023c5d41979e-1783273850-1783262750
 #EXTINF:-1 tvg-id="8899001122" tvg-chno="24" tvg-name="Bangla TV" tvg-logo="http://172.19.178.178/tv/img/banglatv.png" group-title="Bangladeshi",Bangla TV
-http://172.19.178.39:18190/bangla_tv/index.m3u8?token=81b1390f73ab9d355b9ab08f20e7d896a7adadd6-76550065da28a70d9a3406f8093a50a5-1782506988-1782495888
+http://172.19.178.39:18190/bangla_tv/index.m3u8?token=0d2388f79b2d05d5665e8afca3c34636c04fb040-12edcbd2afb837dc619116abef9d0210-1783273850-1783262750
 #EXTINF:-1 tvg-id="6677889900" tvg-chno="25" tvg-name="Boishakhi TV" tvg-logo="http://172.19.178.178/tv/img/boishakhitv.png" group-title="Bangladeshi",Boishakhi TV
-http://172.19.178.39:18190/boishakhi_tv/index.m3u8?token=84adfd6590840d5897787b745409506940eadbc8-a4f8c75e5895625fdf86ce02188cb984-1782506988-1782495888
+http://172.19.178.39:18190/boishakhi_tv/index.m3u8?token=bcaeae427babc1050280a954cd37d8bba744dc53-b5e8648f0b116af59cf46bf65f5f8b61-1783273850-1783262750
 #EXTINF:-1 tvg-id="1122334455" tvg-chno="26" tvg-name="Bijoy TV" tvg-logo="http://172.19.178.178/tv/img/bijoytv.png" group-title="Bangladeshi",Bijoy TV
-http://172.19.178.39:18190/bijoy_tv/index.m3u8?token=707219159f38ea02c3fa6455218a4943cc136e39-486f11d0864b332407b3c98a60906ab2-1782506988-1782495888
+http://172.19.178.39:18190/bijoy_tv/index.m3u8?token=53637de7704d3db0a7c9852991d1902fded4fa06-9e5d7991eddf599a31597f60d893f284-1783273850-1783262750
 #EXTINF:-1 tvg-id="5544332211" tvg-chno="27" tvg-name="Bangla Vision" tvg-logo="http://172.19.178.178/tv/img/banglavision.png" group-title="Bangladeshi",Bangla Vision
-http://172.19.178.39:18190/bangla_vision/index.m3u8?token=3481fbc3db86ed2f90c191de916ff3848037ad53-4d1883c34b6cc2185847fcd273fe585c-1782506988-1782495888
+http://172.19.178.39:18190/bangla_vision/index.m3u8?token=256e1a7394af77b66750454940fb336c338653a4-9775758713a804984b89b398fc91d407-1783273850-1783262750
 #EXTINF:-1 tvg-id="4321432143" tvg-chno="28" tvg-name="BTV" tvg-logo="http://172.19.178.178/tv/img/btv.png" group-title="Bangladeshi",BTV
-http://172.19.178.39:18190/btv/index.m3u8?token=5ccbb3ff0a69fe1ce4f2c5b465abb196853a9dd1-51b7e5c083d19ff97414b0fd55b0c4b7-1782506988-1782495888
+http://172.19.178.39:18190/btv/index.m3u8?token=d831f89225a52095381d90de5cf1c475ee3add6a-ec3da025fae5abe33ac7c9d451390f8f-1783273850-1783262750
 #EXTINF:-1 tvg-id="8765432109" tvg-chno="29" tvg-name="Channel I" tvg-logo="http://172.19.178.178/tv/img/channeli.png" group-title="Bangladeshi",Channel I
-http://172.19.178.39:18190/channel_i/index.m3u8?token=c71109567c67c952913d734da45ea6e828937ce3-f753134a9954ab3a2009ff13a990b969-1782506988-1782495888
+http://172.19.178.39:18190/channel_i/index.m3u8?token=18071c1e1eba0922fc2f3c39b98e7050fda867ff-1e03e81ad6cd5b0eb740441a53299b0b-1783273850-1783262750
 #EXTINF:-1 tvg-id="7654321098" tvg-chno="30" tvg-name="Channel 9" tvg-logo="http://172.19.178.178/tv/img/channel9.png" group-title="Bangladeshi",Channel 9
-http://172.19.178.39:18190/channel9/index.m3u8?token=47a6419801590ed96354de7bfb60c7b2794ac59f-5a24a21cca455f8006ee96c9336d55e9-1782506988-1782495888
+http://172.19.178.39:18190/channel9/index.m3u8?token=6f17e5cf68bffaf8f57a51aab2b410b85896ca29-d0f447818a3488d8db767c31ba949dcd-1783273850-1783262750
 #EXTINF:-1 tvg-id="6543210987" tvg-chno="31" tvg-name="Deepto" tvg-logo="http://172.19.178.178/tv/img/deepto.png" group-title="Bangladeshi",Deepto
-http://172.19.178.39:18190/deepto_tv/index.m3u8?token=47dff255d85d9a49314d713d53a498cc660910b6-827bee3d08046bb3e6b4c4808ad0af4f-1782506988-1782495888
+http://172.19.178.39:18190/deepto_tv/index.m3u8?token=0a5cd24893e3df04cf82a3f4af379e0f06491039-79a74fa4d1322a2e526ac00d45989e6b-1783273850-1783262750
 #EXTINF:-1 tvg-id="5432109876" tvg-chno="32" tvg-name="Desh TV" tvg-logo="http://172.19.178.178/tv/img/deshtv.png" group-title="Bangladeshi",Desh TV
-http://172.19.178.39:18190/desh_tv/index.m3u8?token=c7ff82d3804b0cb4585ca167e05ee9ff0d11db4a-83130ff4ad66be16f9b52cd15d12b7ca-1782506988-1782495888
+http://172.19.178.39:18190/desh_tv/index.m3u8?token=e91ec1f10375ce072fc257536ef27d02d756bcd8-94e21737f5957d0cf947fc1cb1952b9e-1783273850-1783262750
 #EXTINF:-1 tvg-id="4343434345" tvg-chno="33" tvg-name="Sony Pix" tvg-logo="http://172.19.178.178/tv/img/sonypix.png" group-title="English",Sony Pix
-http://172.19.178.142:18190/sony_pix_hd/index.m3u8?token=44a3128d3754013a972d3d29c3bf7c6e63e37687-8553278be154c4f86862b41fc95cdfd1-1782506988-1782495888
+http://172.19.178.142:18190/sony_pix_hd/index.m3u8?token=b21f9f747f7bf627d03bd93f77145bd4eff1a858-0181e88701693a9e04f331da3b367902-1783273850-1783262750
 #EXTINF:-1 tvg-id="8787878790" tvg-chno="34" tvg-name="&flix" tvg-logo="http://172.19.178.178/tv/img/andflix.png" group-title="English",&flix
-http://172.19.178.144:18190/and_flix_hd/index.m3u8?token=6cbcfa2f7ecb06192cec8f5a2f094f50fa115ac2-b8da1d1130cc51aeab1d733393667e0c-1782506988-1782495888
+http://172.19.178.144:18190/and_flix_hd/index.m3u8?token=64e435743bc2d8ae8000a993106424d2b0babd02-1422b8797802e23e26b54b72559deb7e-1783273850-1783262750
 #EXTINF:-1 tvg-id="7676767679" tvg-chno="35" tvg-name="&prive" tvg-logo="http://172.19.178.178/tv/img/andprive.png" group-title="English",&prive
-http://172.19.178.144:18190/and_prive_hd/index.m3u8?token=e878d3523df302028ad096f876c397b132c4ef2c-531ee7ed3cf82b415b61aa7bdf59d61f-1782506988-1782495888
+http://172.19.178.144:18190/and_prive_hd/index.m3u8?token=9c631a3135261912435b5969fc7718dcddcaf2a9-1acad69551e0c57ba9fcf83e131f8348-1783273850-1783262750
 #EXTINF:-1 tvg-id="5454545457" tvg-chno="36" tvg-name="AXN" tvg-logo="http://172.19.178.178/tv/img/axn.png" group-title="English",AXN
-http://172.19.178.144:18190/axn_hd/index.m3u8?token=23b13c7cb84c4337208f65aa5cf8030be83f27ec-249086ce31086e7c0b418284effe293b-1782506988-1782495888
+http://172.19.178.144:18190/axn_hd/index.m3u8?token=35e312ea3c49d98b4b03a1d5a9d78e35630701f0-e2e7383e0582af1e523d612c123b1b6e-1783273850-1783262750
 #EXTINF:-1 tvg-id="1010101014" tvg-chno="37" tvg-name="Lotus" tvg-logo="http://172.19.178.178/tv/img/lotus.png" group-title="English",Lotus
-http://172.19.178.144:18190/lotus_tv/index.m3u8?token=384b227dfe11b871df4247dcf4184cba2d0c842c-b09ed6badc1e5979ed79d59fd8a7fab4-1782506988-1782495888
+http://172.19.178.144:18190/lotus_tv/index.m3u8?token=cfb6c7f4752ffdb803abe774f7650bb9dbd940b2-dd463df47f8b8727c8ae3194aaec3303-1783273850-1783262750
 #EXTINF:-1 tvg-id="8282828286" tvg-chno="38" tvg-name="MN+" tvg-logo="http://172.19.178.178/tv/img/mnplus.png" group-title="English",MN+
-http://172.19.178.144:18190/mn_plus/index.m3u8?token=cb397967b451eec23d37b984a0b3e81d38af3cc1-7c0ea427786d42d022e0488195ffb517-1782506988-1782495888
+http://172.19.178.144:18190/mn_plus/index.m3u8?token=274c8d1244b14242f2d13feb88d1afbce2cbf4d7-815948d33396a830e61adea92f90ef96-1783273850-1783262750
 #EXTINF:-1 tvg-id="7373737377" tvg-chno="39" tvg-name="MNX" tvg-logo="http://172.19.178.178/tv/img/mnx.png" group-title="English",MNX
-http://172.19.178.144:18190/mnx_hd/index.m3u8?token=9b9c072333bcb0b04b68e3ee6555114d63fbb59a-115b7c9378b552dda4f3013d30d657c5-1782506988-1782495888
+http://172.19.178.144:18190/mnx_hd/index.m3u8?token=51d82d5f40808fd8e3e88a5686ea5fc6bb85aff9-9b32ea17df88dc7898df53c7dac4043d-1783273850-1783262750
 #EXTINF:-1 tvg-id="6464646468" tvg-chno="40" tvg-name="Movies Now" tvg-logo="http://172.19.178.178/tv/img/moviesnow.png" group-title="English",Movies Now
-http://172.19.178.144:18190/movies_now_hd/index.m3u8?token=4ff6041c245b23335cfb518eb65eeb15450bf11a-bfd53db25f8969ae91006a910d0283c0-1782506988-1782495888
+http://172.19.178.144:18190/movies_now_hd/index.m3u8?token=be9a13987297a067b9f8d743004ba3c8dc21915f-e883bc7a521965c24b2297a309abf59a-1783273850-1783262750
 #EXTINF:-1 tvg-id="5555555559" tvg-chno="41" tvg-name="Romedy Now" tvg-logo="http://172.19.178.178/tv/img/romedynow.png" group-title="English",Romedy Now
-http://172.19.178.144:18190/romedy_now/index.m3u8?token=9f27f1071a3ae2fef2c8a22f7cf25e791c086b0e-05723ce5010b202a0dc6f65104d8301b-1782506988-1782495888
+http://172.19.178.144:18190/romedy_now/index.m3u8?token=4bb52f3da29c8739d11194d2c8f6b08ee4f22b5a-07795356e3679f9c8268933dc9f1e18f-1783273850-1783262750
 #EXTINF:-1 tvg-id="4646464650" tvg-chno="42" tvg-name="Sony Pix" tvg-logo="http://172.19.178.178/tv/img/sonypix.png" group-title="English",Sony Pix
-http://172.19.178.144:18190/sony_pix_hd/index.m3u8?token=761aff9c572e0915cd958f609ffb44d8583bdd72-106366b6199073aa4029659dbfb5b345-1782506988-1782495888
+http://172.19.178.144:18190/sony_pix_hd/index.m3u8?token=f71152b2a7a2752afe6fc6282c041e715ca25f16-07215f528c4cad3b22b143588e14b4ab-1783273850-1783262750
 #EXTINF:-1 tvg-id="3737373741" tvg-chno="43" tvg-name="Star Movies" tvg-logo="http://172.19.178.178/tv/img/starmovies.png" group-title="English",Star Movies
-http://172.19.178.144:18190/star_movies_hd/index.m3u8?token=044f7910eda6a83b2dbf03dc45887726c213d6e6-f0a7014dcdfe8e5f6283ee04f634599d-1782506988-1782495888
+http://172.19.178.144:18190/star_movies_hd/index.m3u8?token=720a8e2978410e464dc7e8eb4377edd06d5e09db-6f19b31a7cd2e926c8380e6062b96322-1783273850-1783262750
 #EXTINF:-1 tvg-id="2828282832" tvg-chno="44" tvg-name="Star Movies Select" tvg-logo="http://172.19.178.178/tv/img/starmoviesselect.png" group-title="English",Star Movies Select
-http://172.19.178.144:18190/star_movies_select_hd/index.m3u8?token=5475327dfc20c5c08db1481dd92b502595182b52-f110f46f486160f64080592d655b304e-1782506988-1782495888
+http://172.19.178.144:18190/star_movies_select_hd/index.m3u8?token=4735dd0b49ce6fdb1ba2d71f69a0c9c1233b9b90-a6f7bbb9c4a7585cffa67d3587abb8d7-1783273850-1783262750
 #EXTINF:-1 tvg-id="7373737374" tvg-chno="45" tvg-name="Star Plus" tvg-logo="http://172.19.178.178/tv/img/starplus.png" group-title="Hindi",Star Plus
-http://172.19.178.142:18190/star_plus_hd/index.m3u8?token=ea7bbb519118985403b9503a47ed61a078b09b3d-ac296ce9f83bbb1125010f76730c22c0-1782506988-1782495888
+http://172.19.178.142:18190/star_plus_hd/index.m3u8?token=998dbae6b61ef4a27b8b172b59811fc3207c06f2-1ad060e6f5251c8cae37227942a5ea92-1783273850-1783262750
 #EXTINF:-1 tvg-id="6464646465" tvg-chno="46" tvg-name="Zee TV" tvg-logo="http://172.19.178.178/tv/img/zeetv.png" group-title="Hindi",Zee TV
-http://172.19.178.142:18190/zee_tv_hd/index.m3u8?token=b646bf108e7a821198cf9faef784b86e7b51b837-74f8e11b8041c51f4b5b9381031be5ba-1782506988-1782495888
+http://172.19.178.142:18190/zee_tv_hd/index.m3u8?token=cfd3f85837f779e69e8f50aff94ac95a4be923a0-c7c38b9db76cc3df583d9a680fa27272-1783273850-1783262750
 #EXTINF:-1 tvg-id="5555555556" tvg-chno="47" tvg-name="Sony Entertainment Television" tvg-logo="http://172.19.178.178/tv/img/sonyentertainmenttelevision.png" group-title="Hindi",Sony Entertainment Television
-http://172.19.178.142:18190/sony_ent_hd/index.m3u8?token=8f1225598572f59a1dc370d7c3ecfc40d9a0e609-46a1cb40a2f6861cb08bfb441f66d033-1782506988-1782495888
+http://172.19.178.142:18190/sony_ent_hd/index.m3u8?token=fe62cfbaffe7fd08b3235ebf1a61e2aec4e27728-729d3991b1da308420a5be2ba6697940-1783273850-1783262750
 #EXTINF:-1 tvg-id="4646464647" tvg-chno="48" tvg-name="Colors" tvg-logo="http://172.19.178.178/tv/img/colors.png" group-title="Hindi",Colors
-http://172.19.178.142:18190/colors_hd/index.m3u8?token=105db93ece939a99d3e4c517d508c4f2a0e4d9de-58db66d1fd076b47b068c426900cca79-1782506988-1782495888
+http://172.19.178.142:18190/colors_hd/index.m3u8?token=6f99af46d658f3fd7197f3d87e69efdd4219011c-d7ab2131016d3d25a54962e4e0214854-1783273850-1783262750
 #EXTINF:-1 tvg-id="3737373738" tvg-chno="49" tvg-name="& TV" tvg-logo="http://172.19.178.178/tv/img/andtv.png" group-title="Hindi",& TV
-http://172.19.178.142:18190/and_picture/index.m3u8?token=ceb2ddf6c1e2acd6202bff7e7be7d95ce93ffa1d-064d472d0b4c2ca99d371b173fa1b957-1782506988-1782495888
+http://172.19.178.142:18190/and_picture/index.m3u8?token=8ebb18730679460fb6f244bb937dd9e3cc316fa7-de29cad78bfd676281c8ad3d31572b45-1783273850-1783262750
 #EXTINF:-1 tvg-id="2828282829" tvg-chno="50" tvg-name="Star Bharat" tvg-logo="http://172.19.178.178/tv/img/starbharat.png" group-title="Hindi",Star Bharat
-http://172.19.178.142:18190/star_bharat_hd/index.m3u8?token=0ace778944b21b9c61f7baa01f34e59e0ab98daf-0ae73616e5e307f7ea288d485ba77a96-1782506988-1782495888
+http://172.19.178.142:18190/star_bharat_hd/index.m3u8?token=c44d98e8bd3bf3397bac7249cb537d3dbaa8d3c2-29c45fcaf54b87144b77ad4ae5904a3b-1783273850-1783262750
 #EXTINF:-1 tvg-id="1919191920" tvg-chno="51" tvg-name="Star Gold" tvg-logo="http://172.19.178.178/tv/img/stargold.png" group-title="Hindi",Star Gold
-http://172.19.178.142:18190/star_gold_hd/index.m3u8?token=8e9be3be667d83130dffcd0e194203346a471d42-a46b5167799e385c36797cad1f9d49b3-1782506988-1782495888
+http://172.19.178.142:18190/star_gold_hd/index.m3u8?token=19d9860c47dd343370f952da65cd568d945f1d9f-6c2df20eaaa405467a1d94cce8541b61-1783273850-1783262750
 #EXTINF:-1 tvg-id="0909090910" tvg-chno="52" tvg-name="Star Gold 2" tvg-logo="http://172.19.178.178/tv/img/stargold2.png" group-title="Hindi",Star Gold 2
-http://172.19.178.142:18190/star_gold_2_hd/index.m3u8?token=8ef7545ce972ca4ca57c0ecc0cfdbfafb27ebc3c-9c1025fa2fbed2de1ce62e5ea64344b9-1782506988-1782495888
+http://172.19.178.142:18190/star_gold_2_hd/index.m3u8?token=1d47006c46a6761067b6195369be59b5b0d487ff-6adc14a84e38befd0cea67c87ce00f34-1783273850-1783262750
 #EXTINF:-1 tvg-id="9898989899" tvg-chno="53" tvg-name="Star Gold Select" tvg-logo="http://172.19.178.178/tv/img/stargoldselect.png" group-title="Hindi",Star Gold Select
-http://172.19.178.142:18190/star_gold_select_hd/index.m3u8?token=abc8364d940707968af13a62c9a015a6d3a398c5-e47f57d2814f716dd8b3e199b9fa3a56-1782506988-1782495888
+http://172.19.178.142:18190/star_gold_select_hd/index.m3u8?token=54c9835223c310bb68d80e62c054a697169b9b05-8ca6ba70981d4730690dee5a7c3c9680-1783273850-1783262750
 #EXTINF:-1 tvg-id="8787878788" tvg-chno="54" tvg-name="Zee Cinema HD" tvg-logo="http://172.19.178.178/tv/img/zeecinema.png" group-title="Hindi",Zee Cinema HD
-http://172.19.178.142:18190/zee_cinema_hd/index.m3u8?token=0f8ad87c886c73da368b098ee586e9d249327d4e-680c1b51eebc036f1d61764726cd5d62-1782506988-1782495888
+http://172.19.178.142:18190/zee_cinema_hd/index.m3u8?token=2896534fde08c7833c09c8dc0f1a22e5f9ab47d5-d37c6e31cbca3cb9e0725c5e73c7a721-1783273850-1783262750
 #EXTINF:-1 tvg-id="7676767677" tvg-chno="55" tvg-name="Zee Cinema" tvg-logo="http://172.19.178.178/tv/img/zeecinema.png" group-title="Hindi",Zee Cinema
-http://172.19.178.142:18190/zee_cinema/index.m3u8?token=55d5263d27aff191cb25f835509cb33c9e6b81bd-7c8e73779b0dc60cdeadfec3d58db43e-1782506988-1782495888
+http://172.19.178.142:18190/zee_cinema/index.m3u8?token=c56047100adf43da5283b9971198bb4a4b00767f-26c568ac4cd1ba6928fade43d124faa9-1783273850-1783262750
 #EXTINF:-1 tvg-id="6565656566" tvg-chno="56" tvg-name="Zee Action" tvg-logo="http://172.19.178.178/tv/img/zeeaction.png" group-title="Hindi",Zee Action
-http://172.19.178.142:18190/zee_action/index.m3u8?token=afcd46b54e689a69bb3556447b46e565d39e7803-9c3208ae05b785a7a79d7fc8122c994d-1782506988-1782495888
+http://172.19.178.142:18190/zee_action/index.m3u8?token=ea418123cdc6c3c859d98ddc0535ac1d9ba60eef-a6c2d240dfb96b43ed6a6c150d282751-1783273850-1783262750
 #EXTINF:-1 tvg-id="1919191919" tvg-chno="57" tvg-name="Star Jalsha" tvg-logo="http://172.19.178.178/tv/img/starjalsha.png" group-title="Indian_Bangla",Star Jalsha
-http://172.19.178.59:18190/star_jalsha_hd/index.m3u8?token=0d46cf29bb8019868c941b552106632cbacf40b7-d7982051841af97647e35b8c216254d8-1782506988-1782495888
+http://172.19.178.59:18190/star_jalsha_hd/index.m3u8?token=1861b945cc249673e94c4aa6284acfdbafab82cf-07bd33097e98d0e82b9c824e96d7cf4d-1783273850-1783262750
 #EXTINF:-1 tvg-id="0909090909" tvg-chno="58" tvg-name="Zee Bangla" tvg-logo="http://172.19.178.178/tv/img/zeebangla.png" group-title="Indian_Bangla",Zee Bangla
-http://172.19.178.59:18190/zee_bangla_hd/index.m3u8?token=7ed4cb601dc1e2439dd5485801d2bdf322559688-676a23e5a0efa37a6a8d716206a768eb-1782506988-1782495888
+http://172.19.178.59:18190/zee_bangla_hd/index.m3u8?token=81c1fa3b7bf00d5f5257ceece3d5769dbee4729a-171411fc5029a6505e205e1c877d7ba3-1783273850-1783262750
 #EXTINF:-1 tvg-id="9898989898" tvg-chno="59" tvg-name="Colors Bangla" tvg-logo="http://172.19.178.178/tv/img/colorsbangla.png" group-title="Indian_Bangla",Colors Bangla
-http://172.19.178.59:18190/colors_bangla_hd/index.m3u8?token=b9fb3f4555c2f4a22d93e95abe26b1f75e530533-8be3a2971dfebdc28039df098aa097f1-1782506988-1782495888
+http://172.19.178.59:18190/colors_bangla_hd/index.m3u8?token=d8eaaa24c25eb1afc0ef05f7bdc5a91f8506219a-5a58285740937b59f2e5a076004625a2-1783273850-1783262750
 #EXTINF:-1 tvg-id="8787878787" tvg-chno="60" tvg-name="Sony Aath" tvg-logo="http://172.19.178.178/tv/img/sonyaath.png" group-title="Indian_Bangla",Sony Aath
-http://172.19.178.59:18190/sony_aath/index.m3u8?token=8418880cf704e5afe98814eb1b041c66ea3ff766-edfbfb6a529fab486f73315a2b60e706-1782506988-1782495888
+http://172.19.178.59:18190/sony_aath/index.m3u8?token=6efe7679b59eb02a61c6c295ecc7441c2e02a32a-03b3631e4e2d4a3b77a700c9a1ec2eae-1783273850-1783262750
 #EXTINF:-1 tvg-id="7676767676" tvg-chno="61" tvg-name="Jalsha Movies" tvg-logo="http://172.19.178.178/tv/img/jalshamovies.png" group-title="Indian_Bangla",Jalsha Movies
-http://172.19.178.59:18190/jalsha_movies_hd/index.m3u8?token=9ba2bdeaf3e4847a90c2d7bb9a09293b16b08135-f8318c5ad99c4b589fbca7801f47fd01-1782506988-1782495888
+http://172.19.178.59:18190/jalsha_movies_hd/index.m3u8?token=26c89762b2dd291ecde5595a2bb3287ae0902bbb-d2d6b01f1b61ef2056d345cd5f2527b8-1783273850-1783262750
 #EXTINF:-1 tvg-id="6565656565" tvg-chno="62" tvg-name="Zee Bangla Cinema" tvg-logo="http://172.19.178.178/tv/img/zeebanglacinema.png" group-title="Indian_Bangla",Zee Bangla Cinema
-http://172.19.178.59:18190/zee_bangla_cinema/index.m3u8?token=b31135f9fa1e8caec1627f91ad9335d202bff6c1-d6db6f1dbede7c379e62b7acf1f6eef8-1782506988-1782495888
+http://172.19.178.59:18190/zee_bangla_cinema/index.m3u8?token=439d7aac1d85525bd9ff7110904292acc773798d-02b7e2f37ee89b2cc402d9b9b0bd62d3-1783273850-1783262750
 #EXTINF:-1 tvg-id="5454545454" tvg-chno="63" tvg-name="Colors Bangla Cinema" tvg-logo="http://172.19.178.178/tv/img/colorsbanglacinema.png" group-title="Indian_Bangla",Colors Bangla Cinema
-http://172.19.178.59:18190/colors_bangla_cinema/index.m3u8?token=559b72101c105249e924681eb7843bb2d7118c28-00f5a2e1ee4ec7c834bbe948599d6259-1782506988-1782495888
+http://172.19.178.59:18190/colors_bangla_cinema/index.m3u8?token=c0fbaf7005fe7d0b17251a02cf28e6a7dde1ca0f-e758399e25654c0cfc1aabcf0742681a-1783273850-1783262750
 #EXTINF:-1 tvg-id="4343434343" tvg-chno="64" tvg-name="Aakash Aath" tvg-logo="http://172.19.178.178/tv/img/aakashaath.png" group-title="Indian_Bangla",Aakash Aath
-http://172.19.178.59:18190/akash_aat/index.m3u8?token=52eb3c57dda3f958f789499479cab962b65a966e-850a36208ec73f5ce0b67081f62fbf8e-1782506988-1782495888
+http://172.19.178.59:18190/akash_aat/index.m3u8?token=972a46cb98edd89e8107e2cc6f612f265abcf56a-31e93961faea636f98ccf34bea0eb08a-1783273850-1783262750
 #EXTINF:-1 tvg-id="3232323232" tvg-chno="65" tvg-name="Enterr10 Bangla" tvg-logo="http://172.19.178.178/tv/img/enterr10bangla.png" group-title="Indian_Bangla",Enterr10 Bangla
-http://172.19.178.59:18190/enterr_10/index.m3u8?token=5883825a4dd4f2c6e5b97748330f66c077d16fd7-58c5839f6fc361f29bf64070942e9150-1782506988-1782495888
+http://172.19.178.59:18190/enterr_10/index.m3u8?token=c73cdd2dd45868b94c41d917a91aba5a57508263-9160ea8ab0e812e0a4d57e6728261345-1783273850-1783262750
 #EXTINF:-1 tvg-id="2121212121" tvg-chno="66" tvg-name="Rongeen TV" tvg-logo="http://172.19.178.178/tv/img/rongeentv.png" group-title="Indian_Bangla",Rongeen TV
-http://172.19.178.59:18190/rongeen_tv/index.m3u8?token=3d41bedf4b790cb20e263683e14960f4588370c0-e001260f19e2aae26900ee356fd2782c-1782506988-1782495888
+http://172.19.178.59:18190/rongeen_tv/index.m3u8?token=83373cce8f760826321056001f5ef42a103b17b4-1a8e8091fb5341ab23c1494f8e3e6ca7-1783273850-1783262750
 #EXTINF:-1 tvg-id="1010101011" tvg-chno="67" tvg-name="Ruposhi Bangla" tvg-logo="http://172.19.178.178/tv/img/ruposhibangla.png" group-title="Indian_Bangla",Ruposhi Bangla
-http://172.19.178.59:18190/ruposhi_bangla/index.m3u8?token=2f6729c87365cdb2c792753cee744fcf1f49049e-2a283bdc831441bc2a37fc50e7d97bb1-1782506988-1782495888
+http://172.19.178.59:18190/ruposhi_bangla/index.m3u8?token=c6b81caaf331efc737841d0f0fc1db86647d51a6-0c08e23266540a65025817235275754f-1783273850-1783262750
 #EXTINF:-1 tvg-id="9191919192" tvg-chno="68" tvg-name="Sun Bangla" tvg-logo="http://172.19.178.178/tv/img/sunbangla.png" group-title="Indian_Bangla",Sun Bangla
-http://172.19.178.59:18190/sun_bangla_hd/index.m3u8?token=046d219ba0b71455330eccd8545f613f57a28951-26c055ab4f21089858e31e9029619e6d-1782506988-1782495888
+http://172.19.178.59:18190/sun_bangla_hd/index.m3u8?token=fcf4b801c4457081dd0fc238416195bb7a658cf0-eb857192b2fadec95119c95557ede255-1783273850-1783262750
 #EXTINF:-1 tvg-id="8787878789" tvg-chno="69" tvg-name="Hum Masala" tvg-logo="http://172.19.178.178/tv/img/hummasala.png" group-title="Infotainment",Hum Masala
-http://172.19.178.142:18190/hum_masala/index.m3u8?token=da519c495b57cebaa62891df1c656d9ffe6f853a-82581dda39ab662c9ef64d4b49b8edf6-1782506988-1782495888
+http://172.19.178.142:18190/hum_masala/index.m3u8?token=68bd654f1bd2a58d72b88c0c3b914010ac904840-f7c8ee042d31fd66744a87f1c59cf4df-1783273850-1783262750
 #EXTINF:-1 tvg-id="9191919195" tvg-chno="70" tvg-name="Love Nature" tvg-logo="http://172.19.178.178/tv/img/lovenature.png" group-title="Infotainment",Love Nature
-http://172.19.178.144:18190/love_nature/index.m3u8?token=5004c09e0c65939994c537b860949811aaaee509-fbcc53cd69a93fcfdbffc54a86719946-1782506988-1782495888
+http://172.19.178.144:18190/love_nature/index.m3u8?token=6c01b49b60b892b23f88dd5db20a3ebdd55199bb-d6af02b1a86076af8001213498d44996-1783273850-1783262750
 #EXTINF:-1 tvg-id="0909090913" tvg-chno="71" tvg-name="Animal Planet" tvg-logo="http://172.19.178.178/tv/img/animalplanet.png" group-title="Infotainment",Animal Planet
-http://172.19.178.145:18190/animal_planet_hd/index.m3u8?token=d062304009261a1b33cb4764d8466e67434dbf41-88379237e264b0002bc18fb12f28a3d5-1782506989-1782495889
+http://172.19.178.145:18190/animal_planet_hd/index.m3u8?token=fe444a16fdf6b1d826ab5ef1d51acc9fa4db401e-770f2c84a53552fff6195e92103f9a34-1783273850-1783262750
 #EXTINF:-1 tvg-id="9898989902" tvg-chno="72" tvg-name="BBC Earth" tvg-logo="http://172.19.178.178/tv/img/bbcearth.png" group-title="Infotainment",BBC Earth
-http://172.19.178.145:18190/bbc_earth_hd/index.m3u8?token=d2929acb6c523166b79f147cf2546fa6331eabe6-3a4aee8953bab731f1426453b916e1b3-1782506989-1782495889
+http://172.19.178.145:18190/bbc_earth_hd/index.m3u8?token=aec2458e27e96d80d942892655d5e56eb51fe1d5-ef49b26bdaa4e0180b0eaea8baaea024-1783273850-1783262750
 #EXTINF:-1 tvg-id="8787878791" tvg-chno="73" tvg-name="Discovery" tvg-logo="http://172.19.178.178/tv/img/discovery.png" group-title="Infotainment",Discovery
-http://172.19.178.145:18190/discovery_bangla/index.m3u8?token=07f57b8d5029597d9ff77185412c98f9354a50f1-31df90ffbaa84ad09bc37dae069c61d3-1782506989-1782495889
+http://172.19.178.145:18190/discovery_bangla/index.m3u8?token=3de7f98b566931f64b2e17d40bcec2d7bcb72e15-9cfaa3436712fcde41d7d1797c029f52-1783273850-1783262750
 #EXTINF:-1 tvg-id="7676767680" tvg-chno="74" tvg-name="Discovery" tvg-logo="http://172.19.178.178/tv/img/discovery.png" group-title="Infotainment",Discovery
-http://172.19.178.145:18190/discovery_hd/index.m3u8?token=ad030ff27b33f6c640e2e7d5e31a3da475cde4da-06db58a004e2d28191366348c5c95c61-1782506989-1782495889
+http://172.19.178.145:18190/discovery_hd/index.m3u8?token=e3e361e8d8bff9d0892c937e2b3316ff20f01084-748daf08832be587d5a98ec017f89367-1783273850-1783262750
 #EXTINF:-1 tvg-id="6565656569" tvg-chno="75" tvg-name="Discovery Science" tvg-logo="http://172.19.178.178/tv/img/discoveryscience.png" group-title="Infotainment",Discovery Science
-http://172.19.178.145:18190/discovery_science/index.m3u8?token=20b58791d9b0df2fa82751e030caed9ee08ffe74-7fd89c15a0fd60c2c7b3487dbd6d8f5d-1782506989-1782495889
+http://172.19.178.145:18190/discovery_science/index.m3u8?token=a9b284af2ef7902d92b614f12cc49c472093fa07-2410c9dca033b6fface2954f3dfbf38c-1783273850-1783262750
 #EXTINF:-1 tvg-id="4343434347" tvg-chno="76" tvg-name="History TV18" tvg-logo="http://172.19.178.178/tv/img/historytv18.png" group-title="Infotainment",History TV18
-http://172.19.178.145:18190/history_tv_hd/index.m3u8?token=0439e56bf26f34859eec7350fb99b3994a7b6bcc-4859662edda97bb22dee6d59c274747a-1782506989-1782495889
+http://172.19.178.145:18190/history_tv_hd/index.m3u8?token=a549e3d62f68435c84dbf61d1319aade9954b8d5-f2ffb34d314c6bd199b8e60d229be44c-1783273850-1783262750
 #EXTINF:-1 tvg-id="3232323236" tvg-chno="77" tvg-name="Investigation Discovery" tvg-logo="http://172.19.178.178/tv/img/investigationdiscovery.png" group-title="Infotainment",Investigation Discovery
-http://172.19.178.145:18190/investigation_discovery/index.m3u8?token=a8ab51639a344928eca1523ccc86737337f15957-a2665909da1daf479e8bac369d270de0-1782506989-1782495889
+http://172.19.178.145:18190/investigation_discovery/index.m3u8?token=b6aea9461df654a1ed11b1a99c0990a7f2bad49f-27dd0f6bc50175b2e8ea27a2172b943d-1783273850-1783262750
 #EXTINF:-1 tvg-id="2121212125" tvg-chno="78" tvg-name="Nat Geo Wild" tvg-logo="http://172.19.178.178/tv/img/natgeowild.png" group-title="Infotainment",Nat Geo Wild
-http://172.19.178.145:18190/natgeo_wild_hd/index.m3u8?token=9058ae4482319e102d6ccd2b10e04d6868b833ec-0eb425cada735faa9724fcb011da1611-1782506989-1782495889
+http://172.19.178.145:18190/natgeo_wild_hd/index.m3u8?token=36157da5cbcce2b971a21e6ae956453c52b94d4e-3a947fb41cdfe2c2465b2ae9a47a989b-1783273850-1783262750
 #EXTINF:-1 tvg-id="1010101015" tvg-chno="79" tvg-name="National Geographic" tvg-logo="http://172.19.178.178/tv/img/nationalgeographic.png" group-title="Infotainment",National Geographic
-http://172.19.178.145:18190/ngo_gerophy_hd/index.m3u8?token=36736e2804781876b2ccea3bd38bd80353987e79-aee13db08dc70a4dc2c7dde19fba0b73-1782506989-1782495889
+http://172.19.178.145:18190/ngo_gerophy_hd/index.m3u8?token=07c2899db946d5b20af0b775304b6755be2fc4c1-3e172d24c474d505882c747786125f5d-1783273850-1783262750
 #EXTINF:-1 tvg-id="4321098765" tvg-chno="80" tvg-name="Duronto" tvg-logo="http://172.19.178.178/tv/img/duronto.png" group-title="Kids",Duronto
-http://172.19.178.39:18190/duronto_tv/index.m3u8?token=51ba18493a7af76af09256f9fd32bb8e06e9fbcf-1e6cf9e23bd44e41ec0449f868096ffa-1782506989-1782495889
+http://172.19.178.39:18190/duronto_tv/index.m3u8?token=7dccc3bbdc1d1f3ae7bc364278e9b297c6557618-ee20848f4204f33c93794f053be0fc97-1783273850-1783262750
 #EXTINF:-1 tvg-id="3232323234" tvg-chno="81" tvg-name="ETV Bal Bharat" tvg-logo="http://172.19.178.178/tv/img/etvbalbharat.png" group-title="Kids",ETV Bal Bharat
-http://172.19.178.143:18190/bal_bharat/index.m3u8?token=a121f8a4c51e13318f7e6fdaae96619870d22638-58d14bc4579382f2d06d0c18ab05080f-1782506989-1782495889
+http://172.19.178.143:18190/bal_bharat/index.m3u8?token=11090624e9e02e5038ff2498f6a14a0efe52eecb-c732095cc63f117c1d7f8432a4628330-1783273850-1783262750
 #EXTINF:-1 tvg-id="2121212123" tvg-chno="82" tvg-name="Cartoon Network HD+" tvg-logo="http://172.19.178.178/tv/img/cartoonnetworkhdplus.png" group-title="Kids",Cartoon Network HD+
-http://172.19.178.143:18190/cartoon_network/index.m3u8?token=833201e3caf287b2f36fe7436296ca828d421720-cd3b7490b0eb330ee053651a2c1cf11f-1782506989-1782495889
+http://172.19.178.143:18190/cartoon_network/index.m3u8?token=a348c9841d11ae1cb7b45cd6045b01e2d579398f-e1fcb07d606d53d671fc018c6f70cc30-1783273850-1783262750
 #EXTINF:-1 tvg-id="1010101013" tvg-chno="83" tvg-name="Cartoon Network" tvg-logo="http://172.19.178.178/tv/img/cartoonnetwork.png" group-title="Kids",Cartoon Network
-http://172.19.178.143:18190/cn/index.m3u8?token=b3bb3ffa1dde0b489b040c2606144d3096e55d79-41f50b693dca1b60de53407daf2c565a-1782506989-1782495889
+http://172.19.178.143:18190/cn/index.m3u8?token=aab6283848b63e1ab48c210553c183e5a7f51e09-e0e51bb3ce1102006696bff32fe28b80-1783273850-1783262750
 #EXTINF:-1 tvg-id="9191919194" tvg-chno="84" tvg-name="Discovery Kids" tvg-logo="http://172.19.178.178/tv/img/discoverykids.png" group-title="Kids",Discovery Kids
-http://172.19.178.143:18190/discovery_kids/index.m3u8?token=36ae5efc00367e1afff4392ca354da1afd1e33ee-c6b225997268db89580ba6f5b472d756-1782506989-1782495889
+http://172.19.178.143:18190/discovery_kids/index.m3u8?token=7057c0d59c92c3e8761cba2783bb022130821d4c-89adfc0a6374d30096016ef4717fa711-1783273850-1783262750
 #EXTINF:-1 tvg-id="8282828285" tvg-chno="85" tvg-name="Disnep Channel" tvg-logo="http://172.19.178.178/tv/img/disnepchannel.png" group-title="Kids",Disnep Channel
-http://172.19.178.143:18190/disney_hindi/index.m3u8?token=d3561046b6ceec85270eb32beaf2ea20a0b38bed-f2a714ae9b352e9bd6be96898de98e5d-1782506989-1782495889
+http://172.19.178.143:18190/disney_hindi/index.m3u8?token=56278eb294d77d6e2cf6fe228f448ae6c749f83b-444195761b1ad873d3b80d7ed86d6bf8-1783273850-1783262750
 #EXTINF:-1 tvg-id="7373737376" tvg-chno="86" tvg-name="Duronto" tvg-logo="http://172.19.178.178/tv/img/duronto.png" group-title="Kids",Duronto
-http://172.19.178.143:18190/duranta_tv/index.m3u8?token=1e969c02b9bd28540474b25d1eac8780625fdee8-f36f0e8cbf5002f0d818832a8fcc2a80-1782506989-1782495889
+http://172.19.178.143:18190/duranta_tv/index.m3u8?token=faf0f05346b240a8cc6b2b11b3dcfd548e7ffd7d-03865ef4f865fdc3f59e13bf951dcc9a-1783273850-1783262750
 #EXTINF:-1 tvg-id="6464646467" tvg-chno="87" tvg-name="Hungama" tvg-logo="http://172.19.178.178/tv/img/hungama.png" group-title="Kids",Hungama
-http://172.19.178.143:18190/hungama/index.m3u8?token=ce363ca1cd0d7ca3bd96c6ace420373f2bf5c02e-9845283272a50889954db45450abff67-1782506989-1782495889
+http://172.19.178.143:18190/hungama/index.m3u8?token=5a61c96ffb34b0565d51071bccdc253d1d4dc950-1de4c7ff867c9566a5823389b245fbc1-1783273850-1783262750
 #EXTINF:-1 tvg-id="5555555558" tvg-chno="88" tvg-name="Nick" tvg-logo="http://172.19.178.178/tv/img/nick.png" group-title="Kids",Nick
-http://172.19.178.143:18190/nick/index.m3u8?token=a6c0e7658f1104f7627632e68cd844da513aa858-bdd12e7fd97de12c7b86286988a4420c-1782506989-1782495889
+http://172.19.178.143:18190/nick/index.m3u8?token=7bbae2a1d5b55d565a6200498b61a5c5ac3ef35e-a671ce1fb28ce6d092dac09707240f98-1783273850-1783262750
 #EXTINF:-1 tvg-id="4646464649" tvg-chno="89" tvg-name="Nick Jr" tvg-logo="http://172.19.178.178/tv/img/nickjr.png" group-title="Kids",Nick Jr
-http://172.19.178.143:18190/nick_jr/index.m3u8?token=7ee6187cdea06366730e41e3a0880ebb53c44902-690b0bcccd0ab8f5f88b24e507dbd26b-1782506989-1782495889
+http://172.19.178.143:18190/nick_jr/index.m3u8?token=5397e77b501bc4c12cfd3db7f655936a3dde635d-248d161682af73678191f2b2a6f69bc4-1783273850-1783262750
 #EXTINF:-1 tvg-id="3737373740" tvg-chno="90" tvg-name="Pogo" tvg-logo="http://172.19.178.178/tv/img/pogo.png" group-title="Kids",Pogo
-http://172.19.178.143:18190/pogo/index.m3u8?token=22c8082fda0be2de6a3251d6cca0f4b84422cea5-de89629f8e13d2eaa7b6870b382eccb7-1782506989-1782495889
+http://172.19.178.143:18190/pogo/index.m3u8?token=627df413b4afcc7607228542971844f65f5d3e59-bb1e837267d121de921621ba53f117f1-1783273850-1783262750
 #EXTINF:-1 tvg-id="2828282831" tvg-chno="91" tvg-name="Sonic" tvg-logo="http://172.19.178.178/tv/img/sonic.png" group-title="Kids",Sonic
-http://172.19.178.143:18190/sonic/index.m3u8?token=5b36ab7d5dfba6c1d397873000e22e5b5f1f6647-9bf1db78dae1b280cc8bf82fe865598c-1782506989-1782495889
+http://172.19.178.143:18190/sonic/index.m3u8?token=3598177191f146061717cbc22c0382d861312256-61f31c8605c63579a676f0acd81847cf-1783273850-1783262750
 #EXTINF:-1 tvg-id="1919191921" tvg-chno="92" tvg-name="B4U Music" tvg-logo="http://172.19.178.178/tv/img/b4umusic.png" group-title="Music",B4U Music
-http://172.19.178.142:18190/b4u_music/index.m3u8?token=cefaac82cc24cea411dc50e473070686a2e3630b-c0be30b43efaaeb568f7b42952dfe273-1782506989-1782495889
+http://172.19.178.142:18190/b4u_music/index.m3u8?token=55cd38adb1bf3a0f9b8285fee580fe614bd66602-0fda2336f0b5fa77e9f08b3a9aadaffe-1783273850-1783262750
 #EXTINF:-1 tvg-id="0909090911" tvg-chno="93" tvg-name="Zing" tvg-logo="http://172.19.178.178/tv/img/zing.png" group-title="Music",Zing
-http://172.19.178.142:18190/zing/index.m3u8?token=2ad8cda786a8f68d8438178afcc1784168ffafaf-5d25511e823739467b727904e6c60c51-1782506989-1782495889
+http://172.19.178.142:18190/zing/index.m3u8?token=daefe66ac7077e975af18e96565d985d4dbf6072-a703d3a97ac594e65a4ee5b216b8c407-1783273850-1783262750
 #EXTINF:-1 tvg-id="9898989900" tvg-chno="94" tvg-name="Zoom" tvg-logo="http://172.19.178.178/tv/img/zoom.png" group-title="Music",Zoom
-http://172.19.178.142:18190/zoom/index.m3u8?token=fb24c522153bb9e5ce6692baa9db791b9ddfe6d0-9991f278668c812cd0724adbf6033685-1782506989-1782495889
+http://172.19.178.142:18190/zoom/index.m3u8?token=ea731ff9c7bbbd1837b58cb26851d158f5b28193-929d885d28ac8fda10521f469db83bef-1783273850-1783262750
 #EXTINF:-1 tvg-id="2121212124" tvg-chno="95" tvg-name="Hitz" tvg-logo="http://172.19.178.178/tv/img/hitz.png" group-title="Music",Hitz
-http://172.19.178.144:18190/hitz_music/index.m3u8?token=570a4e2b195eb73720acbd68a066d237266538d1-54468a3e1dca0f333adca062d0d416d7-1782506989-1782495889
+http://172.19.178.144:18190/hitz_music/index.m3u8?token=e6bd0c88db7fcef27868c779a547deb80b32ce32-08877edbad93aa68cefc0fe707f79312-1783273850-1783262750
 #EXTINF:-1 tvg-id="1919191924" tvg-chno="96" tvg-name="9x Jalwa" tvg-logo="http://172.19.178.178/tv/img/9xjalwa.png" group-title="Music",9x Jalwa
-http://172.19.178.147:18190/9x_jalwa/index.m3u8?token=2e12d4a34b22cee0d102c1bbb0aed70c559e8268-3a05236bef96ca30feb7f06aaf110f63-1782506989-1782495889
+http://172.19.178.147:18190/9x_jalwa/index.m3u8?token=da57aaad3c1b2fe212c7332ecccbbb80037c4e42-f048d68e4afcf1da664ffb8f431ead31-1783273850-1783262750
 #EXTINF:-1 tvg-id="0909090914" tvg-chno="97" tvg-name="B4U Music" tvg-logo="http://172.19.178.178/tv/img/b4umusic.png" group-title="Music",B4U Music
-http://172.19.178.147:18190/b4u_music/index.m3u8?token=b27563df026b787a29fa4514cf1911053276a806-b9d79e9ca212ccf07d055c8866b0fde0-1782506989-1782495889
+http://172.19.178.147:18190/b4u_music/index.m3u8?token=1b4905249dae49839343b1cb5a4d17cea85fd7f7-63a9e6ece645988a3a35a26f8738c942-1783273850-1783262750
 #EXTINF:-1 tvg-id="9898989903" tvg-chno="98" tvg-name="Sangeet Bangla" tvg-logo="http://172.19.178.178/tv/img/sangeetbangla.png" group-title="Music",Sangeet Bangla
-http://172.19.178.147:18190/sangeet_bangla/index.m3u8?token=c2e1df37eb89ccd5e05116660c01188e39736776-a16bc57dfe07cfa49e12fbc521c99469-1782506989-1782495889
+http://172.19.178.147:18190/sangeet_bangla/index.m3u8?token=b16732f27089fe387af39a6859c0a06e9bc63fef-5f4cd1ef9eee61be93551232c5d5ee0e-1783273850-1783262750
 #EXTINF:-1 tvg-id="8787878792" tvg-chno="99" tvg-name="Mastiii" tvg-logo="http://172.19.178.178/tv/img/mastiii.png" group-title="Music",Mastiii
-http://172.19.178.147:18190/mastiii/index.m3u8?token=b3b6323d2778a0514b50ef134c3cef183ee3cfd3-b4ba4d84dd3c2fa2c39c2c9629c23973-1782506989-1782495889
+http://172.19.178.147:18190/mastiii/index.m3u8?token=5828d9eb22f32449d3113a636357c9a814974a1d-9f5c0a845f58eb492d3c002157d55cfd-1783273850-1783262750
 #EXTINF:-1 tvg-id="7676767681" tvg-chno="100" tvg-name="Trace Urban" tvg-logo="http://172.19.178.178/tv/img/traceurban.png" group-title="Music",Trace Urban
-http://172.19.178.147:18190/trace_urban/index.m3u8?token=7010c75bee74f0ef7934aeea8acadcd5cb7cd664-bc90f02c93d76e8741595579063bd662-1782506989-1782495889
+http://172.19.178.147:18190/trace_urban/index.m3u8?token=fa3f35a474b1611a4c3f8d2fc4621f0d476a968d-734ff7a32cdae855cc0bd5ed2b011fb6-1783273850-1783262750
 #EXTINF:-1 tvg-id="6565656570" tvg-chno="101" tvg-name="Show Box" tvg-logo="http://172.19.178.178/tv/img/showbox.png" group-title="Music",Show Box
-http://172.19.178.147:18190/show_box/index.m3u8?token=7bb8dd117ae05b5dd3e4aed001b52487afe42fb0-b2ec93b2fcac57a01a30d3d3dfcbe1e4-1782506989-1782495889
+http://172.19.178.147:18190/show_box/index.m3u8?token=2e2eff62d9af63c8066033436d687edf876bec7e-5f1154b4981e2586c8dd16b6299dba9c-1783273850-1783262750
 #EXTINF:-1 tvg-id="5454545458" tvg-chno="102" tvg-name="yrf Music" tvg-logo="http://172.19.178.178/tv/img/yrfmusic.png" group-title="Music",yrf Music
-http://172.19.178.147:18190/yrf_music_hd/index.m3u8?token=3be56d9b79fa134b0f2b5d29df1aea2e87e166fd-d57fb11d4eb589986ee65cfab2a40459-1782506989-1782495889
+http://172.19.178.147:18190/yrf_music_hd/index.m3u8?token=5c18c6f329528de7d40d8e57212f7b2b487a4887-31c4fba42a873476db3f1a4ef0b5359d-1783273850-1783262750
 #EXTINF:-1 tvg-id="4433221100" tvg-chno="103" tvg-name="ATN News" tvg-logo="http://172.19.178.178/tv/img/atnnews.png" group-title="News",ATN News
-http://172.19.178.39:18190/atn_news/index.m3u8?token=3189e6d8cba69c6e26af05e62bfdae3b40f2ec22-4f8627cc1286050316d62c5728db648d-1782506989-1782495889
+http://172.19.178.39:18190/atn_news/index.m3u8?token=b2c9fa963c00684e481d9f6fd87a884ff7b2f40f-f22b7b28cda79a35667e586648e869b0-1783273850-1783262750
 #EXTINF:-1 tvg-id="1231231234" tvg-chno="104" tvg-name="BTV News" tvg-logo="http://172.19.178.178/tv/img/btvnews.png" group-title="News",BTV News
-http://172.19.178.39:18190/btv_news/index.m3u8?token=e9935f15ae9982a4df5bddaac683dbee1eada5be-5c43005e7d9a5d587ef459769ee72b87-1782506989-1782495889
+http://172.19.178.39:18190/btv_news/index.m3u8?token=c5151a73c62cca900c946880b38ef79e3b9b5357-1f20cdcc906dcb74b6e1d755c0dc2bb9-1783273850-1783262750
 #EXTINF:-1 tvg-id="9876543210" tvg-chno="105" tvg-name="Channel 24" tvg-logo="http://172.19.178.178/tv/img/channel24.png" group-title="News",Channel 24
-http://172.19.178.39:18190/channel_24/index.m3u8?token=4ff1fab070f95f78aaca6ac4e98f466d9d5ac854-0aa5a551b009499cf59f219a9162a5fe-1782506989-1782495889
+http://172.19.178.39:18190/channel_24/index.m3u8?token=f2af6fdf15b5e00ac60e9febdd358396688ca676-2a08d4742b24343fff3d46b8bc980da8-1783273850-1783262750
 #EXTINF:-1 tvg-id="3210987654" tvg-chno="106" tvg-name="DBC" tvg-logo="http://172.19.178.178/tv/img/dbc.png" group-title="News",DBC
-http://172.19.178.39:18190/dbc_news/index.m3u8?token=e9e8a1b1a0260d1d931fbe6e0dae001dca200aaf-446cbdea35b8d84d9d311c7d6aad83e0-1782506989-1782495889
+http://172.19.178.39:18190/dbc_news/index.m3u8?token=2bd69a634c3537ed565099b0c06f04d243a9935c-2f1e6ceaec0ab5ed46e41117d77f1873-1783273850-1783262750
 #EXTINF:-1 tvg-id="1098765432" tvg-chno="107" tvg-name="Ekhon" tvg-logo="http://172.19.178.178/tv/img/ekhon.png" group-title="News",Ekhon
-http://172.19.178.39:18190/ekhon_tv/index.m3u8?token=4d05e7ec245386cad8c26285937c4dcdaff65dea-fec164f28e2c0573afe99e4e00a24f59-1782506989-1782495889
+http://172.19.178.39:18190/ekhon_tv/index.m3u8?token=62c8106fff791d422b08308cec118bed6f4ace88-ca7a4af504393a18389c1a73fa4f22b1-1783273850-1783262750
 #EXTINF:-1 tvg-id="3334445556" tvg-chno="108" tvg-name="Independent" tvg-logo="http://172.19.178.178/tv/img/independent.png" group-title="News",Independent
-http://172.19.178.39:18190/independent_tv/index.m3u8?token=a99fbd7d47671558eb6e25c426986d044895b4e2-5a3791f21b26e1c1321ed39de3deae10-1782506989-1782495889
+http://172.19.178.39:18190/independent_tv/index.m3u8?token=cf3735187461921eb661d622cbcbaf097657921e-adc7184d5b09c0a5df5f2bd9ddfe5a68-1783273850-1783262750
 #EXTINF:-1 tvg-id="4445556667" tvg-chno="109" tvg-name="Jamuna TV" tvg-logo="http://172.19.178.178/tv/img/jamunatv.png" group-title="News",Jamuna TV
-http://172.19.178.39:18190/jamuna_tv/index.m3u8?token=d88997f3ba4a41f9608ed40edd4be452c8ddddbe-581f023e57684ba0b999ab61d177056c-1782506989-1782495889
+http://172.19.178.39:18190/jamuna_tv/index.m3u8?token=b77ed8d1f8594eb15e8c7daeacface7839e89e00-2b21222cdd31c692ac6203bbef48836a-1783273850-1783262750
 #EXTINF:-1 tvg-id="3434343434" tvg-chno="110" tvg-name="News 24" tvg-logo="http://172.19.178.178/tv/img/news24.png" group-title="News",News 24
-http://172.19.178.39:18190/news24/index.m3u8?token=d45cb2b8dbedfba38bed0f26541ebd3ebb75a940-0b7c14826ab638c1f5614531c5121eb0-1782506989-1782495889
+http://172.19.178.39:18190/news24/index.m3u8?token=9e3c166bc2a4fc266861069461be8151db8566e1-af5d40fe3f107ccfbfb49741ab08bf7b-1783273850-1783262750
 #EXTINF:-1 tvg-id="6767676767" tvg-chno="111" tvg-name="Somoy TV" tvg-logo="http://172.19.178.178/tv/img/somoytv.png" group-title="News",Somoy TV
-http://172.19.178.39:18190/somoy_tv/index.m3u8?token=0ffddc6f118388416fbb9013a4b213b1319ccc2a-1e21f4b0e1bd17d22b3a3c6452f6e95a-1782506989-1782495889
+http://172.19.178.39:18190/somoy_tv/index.m3u8?token=ce2a180cf48656ce9ff03b1d53402ebd25d36ee0-d2eccb133206510defbe06c1c7de7172-1783273850-1783262750
 #EXTINF:-1 tvg-id="7878787878" tvg-chno="112" tvg-name="71" tvg-logo="http://172.19.178.178/tv/img/71.png" group-title="News",71
-http://172.19.178.39:18190/71/index.m3u8?token=d08d84512ee7eab228552931c876a15e71d10686-9835bbc8c5ba81b9feef736410dd8f36-1782506989-1782495889
+http://172.19.178.39:18190/71/index.m3u8?token=faa603a8060f28b5ad7b8fc845a8839a74efb7ca-3d44749dada88c5135bd74ac17e033c4-1783273850-1783262750
 #EXTINF:-1 tvg-id="8282828283" tvg-chno="113" tvg-name="Zee 24 Ghanta" tvg-logo="http://172.19.178.178/tv/img/zee24ghanta.png" group-title="News",Zee 24 Ghanta
-http://172.19.178.59:18190/zee_24_ghanta/index.m3u8?token=9d1f65073e850cfe5f0da3cc50bccc138f7135bf-6fed4912c830286133e06957bb54a2e5-1782506989-1782495889
+http://172.19.178.59:18190/zee_24_ghanta/index.m3u8?token=119588ae7fda296e95023db9ed43c21578551260-c6cb1e21f99c1242ace234fe6ba9f381-1783273850-1783262750
 #EXTINF:-1 tvg-id="5454545456" tvg-chno="114" tvg-name="Geo News" tvg-logo="http://172.19.178.178/tv/img/geonews.png" group-title="News",Geo News
-http://172.19.178.142:18190/geo_news_hd/index.m3u8?token=cd7362a811852f2b7a19c7ff5d80bd593d7c8557-1c7ead34c5d8fb3ef3626de1c604c0f0-1782506989-1782495889
+http://172.19.178.142:18190/geo_news_hd/index.m3u8?token=e4ad22fdd945ad6e4051cfbd6632804862b24c21-d6446dab519f12f569d4e2c1fb700132-1783273850-1783262750
 #EXTINF:-1 tvg-id="4646464651" tvg-chno="115" tvg-name="Madani Channel Bangla" tvg-logo="http://172.19.178.178/tv/img/madanichannelbangla.png" group-title="Religious",Madani Channel Bangla
-http://172.19.178.146:18190/madani_tv_hd/index.m3u8?token=164dccf118a17d36605b59f8276ae789525f56bf-76f964a45347f8c269fe7d0ba0e94e24-1782506989-1782495889
+http://172.19.178.146:18190/madani_tv_hd/index.m3u8?token=c36ff7667570586cf79b39f7f8c750dcc52f98b2-3163881a472a9e3ce5a17289ef0853a6-1783273850-1783262750
 #EXTINF:-1 tvg-id="3737373742" tvg-chno="116" tvg-name="Peace TV Bangla" tvg-logo="http://172.19.178.178/tv/img/peacetvbangla.png" group-title="Religious",Peace TV Bangla
-http://172.19.178.146:18190/peace_tv_bangla/index.m3u8?token=f8e25583a5579719d6755447921e88572c50fbe5-2c4c033048e75c16ec9b9aa917e924b2-1782506989-1782495889
+http://172.19.178.146:18190/peace_tv_bangla/index.m3u8?token=177b7665828ca1e103a30744554394fb133fd976-95f8a85fb233845619b09edc7e361dc2-1783273850-1783262750
 #EXTINF:-1 tvg-id="2828282833" tvg-chno="117" tvg-name="Islam Channel Bangla" tvg-logo="http://172.19.178.178/tv/img/islamchannelbangla.png" group-title="Religious",Islam Channel Bangla
-http://172.19.178.146:18190/iqra_bangla/index.m3u8?token=6b36d8cc1ce4c46ca083a92bcc42a0f80a7c1732-304ccdd55d97b3959d72237f93f575d5-1782506989-1782495889
+http://172.19.178.146:18190/iqra_bangla/index.m3u8?token=86cb627824297797fc66245dfe321c8380f18a4c-b0ff8be4484b24518d14583125f88b64-1783273850-1783262750
 #EXTINF:-1 tvg-id="8989898989" tvg-chno="118" tvg-name="T Sports" tvg-logo="http://172.19.178.178/tv/img/tsports.png" group-title="Sports",T Sports
-http://172.19.178.151:18190/t_sports_vip/index.m3u8?token=c9c328295863bc851b52bd22ecfcb6fbb37fd3e6-a2f36ef9822b0627d3a5b0dc04f96d52-1782506989-1782495889
+http://172.19.178.151:18190/t_sports_vip/index.m3u8?token=160b78f5bd0c8a36f79dbfdefd86963cc4218f79-96341f632eddb8766564577193012509-1783273850-1783262750
 #EXTINF:-1 tvg-id="9090909090" tvg-chno="119" tvg-name="Star Sports 1" tvg-logo="http://172.19.178.178/tv/img/starsports1.png" group-title="Sports",Star Sports 1
-http://172.19.178.49:18190/star_sports_1_hd/index.m3u8?token=be43b17b5d45a2a7555ceb18e995b0ba05e6b1b5-812e56ca18fc04c84cb78d8db802dff7-1782506989-1782495889
+http://172.19.178.49:18190/star_sports_1_hd/index.m3u8?token=15df47b0fe5b8dddcb40ecd709c1ada77528181a-fa99ab4b5972498eab9c725b8f666dac-1783273850-1783262750
 #EXTINF:-1 tvg-id="1010101010" tvg-chno="120" tvg-name="Star Sports 2" tvg-logo="http://172.19.178.178/tv/img/starsports2.png" group-title="Sports",Star Sports 2
-http://172.19.178.49:18190/star_sports_2_hd/index.m3u8?token=82c6e960c742cc6dddaa1213ea235803cac93468-e2e7c2d8f6bbdfed8493d8fdde5bc7f1-1782506989-1782495889
+http://172.19.178.49:18190/star_sports_2_hd/index.m3u8?token=1a279bcffc1f8d52dc359f5aa8a1289fc4cc4894-9eeec8e6a90c2da056d208b83daefd0e-1783273850-1783262750
 #EXTINF:-1 tvg-id="2020202020" tvg-chno="121" tvg-name="Star Sports 3" tvg-logo="http://172.19.178.178/tv/img/starsports3.png" group-title="Sports",Star Sports 3
-http://172.19.178.49:18190/star_sports_3/index.m3u8?token=77e92fe96eee51fb3f930fb4f098ec1e7a4ee15c-54bceef0737b6bdb0f3b9578f2312aca-1782506989-1782495889
+http://172.19.178.49:18190/star_sports_3/index.m3u8?token=28b9e3c29cca2b9d3995d0edd455e966dac7c7fc-2d69b094e44f6f9feeaa92807d6867b1-1783273850-1783262750
 #EXTINF:-1 tvg-id="3030303030" tvg-chno="122" tvg-name="Star Sports Select 1" tvg-logo="http://172.19.178.178/tv/img/starsportsselect1.png" group-title="Sports",Star Sports Select 1
-http://172.19.178.49:18190/star_sports_select_1_hd/index.m3u8?token=691e5428c88d9ea1d0e05f265548e98771723df0-472f28a8c461c97b9aaaebe56dcef779-1782506989-1782495889
+http://172.19.178.49:18190/star_sports_select_1_hd/index.m3u8?token=7c0364f24e5ba1ae208b5dcd6378cb94a0f53ded-0a216ab4f2517452f82f8249919be2af-1783273850-1783262750
 #EXTINF:-1 tvg-id="4040404040" tvg-chno="123" tvg-name="Star Sports Select 2" tvg-logo="http://172.19.178.178/tv/img/starsportsselect2.png" group-title="Sports",Star Sports Select 2
-http://172.19.178.49:18190/star_sports_select_2_hd/index.m3u8?token=0e0d2a11cd844bbc53774898db4baae50ef948cd-3478e12e7131b33610b1cf58d12c4381-1782506989-1782495889
+http://172.19.178.49:18190/star_sports_select_2_hd/index.m3u8?token=01d79b70629a24f80dc300681d4a2efe55c4d6f7-f88e836b31718b2463d19a1a4a406782-1783273850-1783262750
 #EXTINF:-1 tvg-id="5050505050" tvg-chno="124" tvg-name="Sony Sports Ten 1" tvg-logo="http://172.19.178.178/tv/img/sonysportsten1.png" group-title="Sports",Sony Sports Ten 1
-http://172.19.178.49:18190/sony_sports_ten_1_hd/index.m3u8?token=5ebeb3b90cd7ce3060495db7503e19d0a9dcd116-ac609c265325e4c18acab9ba0bd48d22-1782506989-1782495889
+http://172.19.178.49:18190/sony_sports_ten_1_hd/index.m3u8?token=2e8f0adedc211e40ad42a10c35758bcfcb577144-c190328a8e16b06d69914d06aa5766f1-1783273850-1783262750
 #EXTINF:-1 tvg-id="6060606060" tvg-chno="125" tvg-name="Sony Sports Ten 2" tvg-logo="http://172.19.178.178/tv/img/sonysportsten2.png" group-title="Sports",Sony Sports Ten 2
-http://172.19.178.49:18190/sony_sports_ten_2_hd/index.m3u8?token=8347089d6b6e610f6abe97fedae56e2380220fb1-2952f44a2591fd82d188325eda1fa649-1782506989-1782495889
+http://172.19.178.49:18190/sony_sports_ten_2_hd/index.m3u8?token=b9c01d4dfb319314a49cd99d7a590b39f7ef071c-00e7f636c1cccfd02ee127c47349caea-1783273850-1783262750
 #EXTINF:-1 tvg-id="7070707070" tvg-chno="126" tvg-name="Sony Sports Ten 3" tvg-logo="http://172.19.178.178/tv/img/sonysportsten3.png" group-title="Sports",Sony Sports Ten 3
-http://172.19.178.49:18190/sony_sports_ten_3_hd/index.m3u8?token=06152f08ec52b3c20dfb4968c12c199f9beac607-3aa08eb9b3112665bc97c587604482d1-1782506989-1782495889
+http://172.19.178.49:18190/sony_sports_ten_3_hd/index.m3u8?token=23ef338275d288365f156032541fe73b8d0123af-1b3777df830f2d643bac05522f8add49-1783273850-1783262750
 #EXTINF:-1 tvg-id="8080808080" tvg-chno="127" tvg-name="Sony Sports Ten 4" tvg-logo="http://172.19.178.178/tv/img/sonysportsten4.png" group-title="Sports",Sony Sports Ten 4
-http://172.19.178.49:18190/sony_sports_ten_4_hd/index.m3u8?token=31ec95af9bf5654239f995447444bfa758f7f329-d80a8f46b719ee868c40d8f47567966a-1782506989-1782495889
+http://172.19.178.49:18190/sony_sports_ten_4_hd/index.m3u8?token=178471d08488575fe2abb9f61296f505a93b13b3-1846d1af06ad987ebc0651086c889505-1783273850-1783262750
 #EXTINF:-1 tvg-id="9191919191" tvg-chno="128" tvg-name="Sony Sports Ten 5" tvg-logo="http://172.19.178.178/tv/img/sonysportsten5.png" group-title="Sports",Sony Sports Ten 5
-http://172.19.178.49:18190/sony_sports_ten_5_hd/index.m3u8?token=c80e9ef9e689032accb5edd747fddfa004c95507-ceceeb1d9fe43660a95ed7b75ad5ec3f-1782506989-1782495889
+http://172.19.178.49:18190/sony_sports_ten_5_hd/index.m3u8?token=6feb92b9579aaade93ef932dc42534ab16577e60-8c3086fef2e795b9b8c09d674a1d7c83-1783273850-1783262750
 #EXTINF:-1 tvg-id="8282828282" tvg-chno="129" tvg-name="Ten Cricket" tvg-logo="http://172.19.178.178/tv/img/tencricket.png" group-title="Sports",Ten Cricket
-http://172.19.178.49:18190/sony_ten_cricket/index.m3u8?token=21da225be407d61a31be57002b59b4d3a872cc35-f9a0d604a2b54010007c6d00821135a0-1782506989-1782495889
+http://172.19.178.49:18190/sony_ten_cricket/index.m3u8?token=8081a452c62191c31a10b2f7e717b042fcba64d0-06ac526ab4a49737aa5a8722e4cc1fdf-1783273850-1783262750
 #EXTINF:-1 tvg-id="7676767678" tvg-chno="130" tvg-name="Hum TV" tvg-logo="http://172.19.178.178/tv/img/humtv.png" group-title="Urdu",Hum TV
-http://172.19.178.142:18190/hum_tv/index.m3u8?token=eee56ff170f0b6728f17cce6ce9f6764af28a453-db4d3cdd9b8885198f99f168e0c039e1-1782506989-1782495889
+http://172.19.178.142:18190/hum_tv/index.m3u8?token=5bace34fedb6e2ca03740d86938b97583d06eaf4-000a2978c6fc9809ab75ad240295aaa4-1783273850-1783262750
 #EXTINF:-1 tvg-id="6565656567" tvg-chno="131" tvg-name="Hum Sitaray" tvg-logo="http://172.19.178.178/tv/img/humsitaray.png" group-title="Urdu",Hum Sitaray
-http://172.19.178.142:18190/hum_sitarey/index.m3u8?token=35c3bf979ac64ebb0db7fa6e91997d2146021889-5bb7a658009186ecb88220b6482a8f64-1782506989-1782495889
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffcc00004008873e754e8e743a32900:1f9207b15bbd497222b3a3013781db49
-#EXTINF:-1 tvg-id="spz_ICC_1824" tvg-chno="132" tvg-name="Sri Lanka Women vs Scotland Women — SP" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187806.png" group-title="Sportzfy: Cricket",Sri Lanka Women vs Scotland Women — SP
-https://otte.cache.aiv-cdn.net/bom-nitro/enc/rdehfonok6/out/v1/a9ac9104d73a4538ac1d6ef58c37d801/cenc.mpd
-#EXTINF:-1 tvg-id="spz_ICC_4791" tvg-chno="133" tvg-name="Sri Lanka Women vs Scotland Women — LOW" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187806.png" group-title="Sportzfy: Cricket",Sri Lanka Women vs Scotland Women — LOW
-https://rglzdwqlaqpzfoofnohk.supabase.co/functions/v1/go?url=Q09k4Ouz91gBqUqUIpak4MYmdsrJdsHJokrJdkABFhNcE0zKLw&headers=3OvT47zfFUzf75IJq1aTL768EAv3ERq3qMu840zmHSo3osynd_anIGo3qMBh4RI3r9qvzjasEhukI51JH7I8qjuRIREmFk6nI0zfysfjEU1hqGq_9jv2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3a30b4c29151709f4878395d7246a150:825bd600ed2fa677195974879847a11e
-#EXTINF:-1 tvg-id="spz_ENGvsNZ_1757" tvg-chno="134" tvg-name="England vs New Zealand — SP" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187757.png" group-title="Sportzfy: Cricket",England vs New Zealand — SP
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nozef97xag/out/v1/d914986951c04c639cd7a6f67ab27dc5/cenc.mpd
-#EXTINF:-1 tvg-id="spz_ENGvsNZ_4575" tvg-chno="135" tvg-name="England vs New Zealand — Low" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187757.png" group-title="Sportzfy: Cricket",England vs New Zealand — Low
-https://rglzdwqlaqpzfoofnohk.supabase.co/functions/v1/go?url=Q09k4OuzGUvjHUymE5BfFkyKFsy5FsEKFsdudONmQCPKIMY&headers=3OvT47zfFUzf75IJq1aTL768EAv3ERq3qMu840zmHSo3osynd_anIGo3qMBh4RI3r9qvzjasEhukI51JH7I8qjuRIREmFk6nI0zfysfjEU1hqGq_9jv2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fff0c88530698729506de226786a0ce2:473273ba6a5323ff4174a55ab2e3dfca
-#EXTINF:-1 tvg-id="spz_IndvsIre_4935" tvg-chno="136" tvg-name="Ireland vs India — SP" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187766.png" group-title="Sportzfy: Cricket",Ireland vs India — SP
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wkyr0oiayl/out/v1/ab6df1604fe34712a1a5bc16cc8489c3/cenc.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11
-#EXTINF:-1 tvg-id="spz_IndvsIre_4934" tvg-chno="137" tvg-name="Ireland vs India — Server 1" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187766.png" group-title="Sportzfy: Cricket",Ireland vs India — Server 1
-https://otte-qw.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd
-#EXTINF:-1 tvg-id="spz_IndvsIre_4938" tvg-chno="138" tvg-name="Ireland vs India — LIV - ENG (ios)" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187766.png" group-title="Sportzfy: Cricket",Ireland vs India — LIV - ENG (ios)
-https://sonymtmnew.akamaized.net/hls/live/2105080/cricodi2606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782517971~acl=/*~id=20489944531765319466557661148725~hmac=c6f8caa9915b7c5341a50b6b258e9b667befa6ed578ef5b2bd281c42a02f9cf5
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-#EXTINF:-1 tvg-id="spz_MotoGP_4785" tvg-chno="139" tvg-name="MotoGP vs MotoGP — SP" tvg-logo="https://iili.io/3maFhZB.png" group-title="Sportzfy: Motorsports",MotoGP vs MotoGP — SP
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b59ce06de74ed84f2eda5e81dadba13:48e4ba4ad6c2a60d2bda5d71a0050844
-#EXTINF:-1 tvg-id="spz_MotoGP_4534" tvg-chno="140" tvg-name="MotoGP vs MotoGP — SP - 2" tvg-logo="https://iili.io/3maFhZB.png" group-title="Sportzfy: Motorsports",MotoGP vs MotoGP — SP - 2
-https://otte-qw.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/3j04z3pbit/out/v1/042ee0757ed348bf8c26f75895cae871/cenc.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
-#EXTINF:-1 tvg-id="spz_MotoGP_1327" tvg-chno="141" tvg-name="MotoGP vs MotoGP — SP - 3" tvg-logo="https://iili.io/3maFhZB.png" group-title="Sportzfy: Motorsports",MotoGP vs MotoGP — SP - 3
-https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5ac9a949be51e3bac478a2b6b89fd53e:1fab3b9de1c50dd740e473d439e15fce
-#EXTINF:-1 tvg-id="spz_SrivsWi_4518" tvg-chno="142" tvg-name="West Indies vs Sri Lanka — SP" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187760.png" group-title="Sportzfy: Cricket",West Indies vs Sri Lanka — SP
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/r9l2vb6syd/out/v1/aa21c8df2e9d4f42828895734934385a/cenc.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=570c19f1be3410e4e409be4dc7923f2b:9a4dea8af2a2a703dffa8a477e9edc50
-#EXTINF:-1 tvg-id="spz_SrivsWi_4584" tvg-chno="143" tvg-name="West Indies vs Sri Lanka — SP - 2" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187760.png" group-title="Sportzfy: Cricket",West Indies vs Sri Lanka — SP - 2
-https://otte-qw.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1/69bc6b64f1c14e36bb21e0075a71d8ca/cenc.mpd
-#EXTINF:-1 tvg-id="spz_SrivsWi_4519" tvg-chno="144" tvg-name="West Indies vs Sri Lanka — LOW" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187760.png" group-title="Sportzfy: Cricket",West Indies vs Sri Lanka — LOW
-https://rglzdwqlaqpzfoofnohk.supabase.co/functions/v1/go?url=Q09k4OuP11119jak4MYmdsrJdsHJokrJdkABFhNcE0zKLw&headers=3OvT47zfFUzf75IJq1aTL768EAv3ERq3qMu840zmHSo3osynd_anIGo3qMBh4RI3r9qvzjasEhukI51JH7I8qjuRIREmFk6nI0zfysfjEU1hqGq_9jv2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d01ca2ae1d3d27ead2ea85fb851259e7:c17e77b2b50977d2d166d581dd151bddp
-#EXTINF:-1 tvg-id="spz_MLC_2111" tvg-chno="145" tvg-name="MI New York vs Texas Super Kings — Server 1" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/485012.png" group-title="Sportzfy: Cricket",MI New York vs Texas Super Kings — Server 1
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/psnzmzvjd6/out/v1/3ec7fb7607ee461fb70022d64c73319c/cenc.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d01ca2ae1d3d27ead2ea85fb851259e7:c17e77b2b50977d2d166d581dd151bddp
-#EXTINF:-1 tvg-id="spz_MLC_2111" tvg-chno="146" tvg-name="MI New York vs Texas Super Kings — Server 1" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/485012.png" group-title="Sportzfy: Cricket",MI New York vs Texas Super Kings — Server 1
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/psnzmzvjd6/out/v1/3ec7fb7607ee461fb70022d64c73319c/cenc.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
-#EXTINF:-1 tvg-id="spz_F1_932" tvg-chno="147" tvg-name="Formula 1 vs Formula 1 — Server 1" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-5-2.png" group-title="Sportzfy: Motorsports",Formula 1 vs Formula 1 — Server 1
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6695688f79dc36f7a41f7db13bff5aca:22ef689af2162aefbf745cba2adb4fe9
-#EXTINF:-1 tvg-id="spz_F1_2698" tvg-chno="148" tvg-name="Formula 1 vs Formula 1 — Server 2" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-5-2.png" group-title="Sportzfy: Motorsports",Formula 1 vs Formula 1 — Server 2
-https://simplitv-live.mdn.ors.at/live/eds/sky_sport_f1_hd/dash/sky_sport_f1_hd.mpd
-#EXTINF:-1 tvg-id="spz_F1_1879" tvg-chno="149" tvg-name="Formula 1 vs Formula 1 — Server 3" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-5-2.png" group-title="Sportzfy: Motorsports",Formula 1 vs Formula 1 — Server 3
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/30259d84-8103-44e0-a127-7fe29b03e3e8/master.m3u8
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4837" tvg-chno="150" tvg-name="Uruguay vs Spain — SP - SD" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4725.png" group-title="Sportzfy: Football",Uruguay vs Spain — SP - SD
-https://rglzdwqlaqpzfoofnohk.supabase.co/functions/v1/go?url=Q09k4Ouz91gFOKX9FRoTLpNRopWhojWRopWkQVbmFk6nI0zf&headers=3OymHRdJERI_4UgRHGHJIRIRFhNcE0zKLpycyCv_EU1Uq1yjin
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4885" tvg-chno="151" tvg-name="Uruguay vs Spain — SP - HD" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4725.png" group-title="Sportzfy: Football",Uruguay vs Spain — SP - HD
-https://rglzdwqlaqpzfoofnohk.supabase.co/functions/v1/go?url=Q09k4Ouz91gzOKXF1pak4MYmQV9JdsHJokrJdkABFhNcE0zKLw&headers=3OymHRdJERI_4UgRHGHJIRIRFhNcE0zKLpycyCv_EU1Uq1yjin
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4798" tvg-chno="152" tvg-name="Uruguay vs Spain — FAST" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4725.png" group-title="Sportzfy: Football",Uruguay vs Spain — FAST
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1782442102-0-0-6976393573a3844c5fe5d2313b19925f
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4883" tvg-chno="153" tvg-name="Uruguay vs Spain — SP - 2" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4725.png" group-title="Sportzfy: Football",Uruguay vs Spain — SP - 2
-https://pul-tenm.nbs3g.com/live/hd-en-1-4459829.m3u8?txSecret=cd9a4f3c8ea7549c2ba0b94890f0a8a4&txTime=6A3F2C48
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4856" tvg-chno="154" tvg-name="Uruguay vs Spain — WC TV" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4725.png" group-title="Sportzfy: Football",Uruguay vs Spain — WC TV
-https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4759" tvg-chno="155" tvg-name="Uruguay vs Spain — Arabic" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4725.png" group-title="Sportzfy: Football",Uruguay vs Spain — Arabic
-https://am.proect.xyz/wesa1.m3u8
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4665" tvg-chno="156" tvg-name="Uruguay vs Spain — CCTV 5" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4725.png" group-title="Sportzfy: Football",Uruguay vs Spain — CCTV 5
-https://live.666666.zip/stream/79635460.m3u8
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4758" tvg-chno="157" tvg-name="Uruguay vs Spain — SP - 3" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4725.png" group-title="Sportzfy: Football",Uruguay vs Spain — SP - 3
-https://live.666666.zip/stream/80427327.m3u8
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4828" tvg-chno="158" tvg-name="Uruguay vs Spain — SP - 4" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4725.png" group-title="Sportzfy: Football",Uruguay vs Spain — SP - 4
-https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4722" tvg-chno="159" tvg-name="Uruguay vs Spain — FUSSBALL (Germany VPN)" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4725.png" group-title="Sportzfy: Football",Uruguay vs Spain — FUSSBALL (Germany VPN)
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4723" tvg-chno="160" tvg-name="Uruguay vs Spain — FUSSBALL 4K (Germany VPN)" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4725.png" group-title="Sportzfy: Football",Uruguay vs Spain — FUSSBALL 4K (Germany VPN)
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4837" tvg-chno="161" tvg-name="Cabo Verde vs Saudi Arabia — SP - SD" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4753.png" group-title="Sportzfy: Football",Cabo Verde vs Saudi Arabia — SP - SD
-https://rglzdwqlaqpzfoofnohk.supabase.co/functions/v1/go?url=Q09k4Ouz91gFOKX9FRoTLpNRopWhojWRopWkQVbmFk6nI0zf&headers=3OymHRdJERI_4UgRHGHJIRIRFhNcE0zKLpycyCv_EU1Uq1yjin
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4885" tvg-chno="162" tvg-name="Cabo Verde vs Saudi Arabia — SP - HD" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4753.png" group-title="Sportzfy: Football",Cabo Verde vs Saudi Arabia — SP - HD
-https://rglzdwqlaqpzfoofnohk.supabase.co/functions/v1/go?url=Q09k4Ouz91gzOKXF1pak4MYmQV9JdsHJokrJdkABFhNcE0zKLw&headers=3OymHRdJERI_4UgRHGHJIRIRFhNcE0zKLpycyCv_EU1Uq1yjin
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4798" tvg-chno="163" tvg-name="Cabo Verde vs Saudi Arabia — FAST" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4753.png" group-title="Sportzfy: Football",Cabo Verde vs Saudi Arabia — FAST
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1782442102-0-0-6976393573a3844c5fe5d2313b19925f
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4883" tvg-chno="164" tvg-name="Cabo Verde vs Saudi Arabia — SP - 2" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4753.png" group-title="Sportzfy: Football",Cabo Verde vs Saudi Arabia — SP - 2
-https://pul-tenm.nbs3g.com/live/hd-en-1-4459829.m3u8?txSecret=cd9a4f3c8ea7549c2ba0b94890f0a8a4&txTime=6A3F2C48
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4856" tvg-chno="165" tvg-name="Cabo Verde vs Saudi Arabia — WC TV" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4753.png" group-title="Sportzfy: Football",Cabo Verde vs Saudi Arabia — WC TV
-https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4759" tvg-chno="166" tvg-name="Cabo Verde vs Saudi Arabia — Arabic" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4753.png" group-title="Sportzfy: Football",Cabo Verde vs Saudi Arabia — Arabic
-https://am.proect.xyz/wesa1.m3u8
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4665" tvg-chno="167" tvg-name="Cabo Verde vs Saudi Arabia — CCTV 5" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4753.png" group-title="Sportzfy: Football",Cabo Verde vs Saudi Arabia — CCTV 5
-https://live.666666.zip/stream/79635460.m3u8
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4758" tvg-chno="168" tvg-name="Cabo Verde vs Saudi Arabia — SP - 3" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4753.png" group-title="Sportzfy: Football",Cabo Verde vs Saudi Arabia — SP - 3
-https://live.666666.zip/stream/80427327.m3u8
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4828" tvg-chno="169" tvg-name="Cabo Verde vs Saudi Arabia — SP - 4" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4753.png" group-title="Sportzfy: Football",Cabo Verde vs Saudi Arabia — SP - 4
-https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4722" tvg-chno="170" tvg-name="Cabo Verde vs Saudi Arabia — FUSSBALL (Germany VPN)" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4753.png" group-title="Sportzfy: Football",Cabo Verde vs Saudi Arabia — FUSSBALL (Germany VPN)
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4723" tvg-chno="171" tvg-name="Cabo Verde vs Saudi Arabia — FUSSBALL 4K (Germany VPN)" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4753.png" group-title="Sportzfy: Football",Cabo Verde vs Saudi Arabia — FUSSBALL 4K (Germany VPN)
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4837" tvg-chno="172" tvg-name="Norway vs France — SP - SD" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4475.png" group-title="Sportzfy: Football",Norway vs France — SP - SD
-https://rglzdwqlaqpzfoofnohk.supabase.co/functions/v1/go?url=Q09k4Ouz91gFOKX9FRoTLpNRopWhojWRopWkQVbmFk6nI0zf&headers=3OymHRdJERI_4UgRHGHJIRIRFhNcE0zKLpycyCv_EU1Uq1yjin
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4885" tvg-chno="173" tvg-name="Norway vs France — SP - HD" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4475.png" group-title="Sportzfy: Football",Norway vs France — SP - HD
-https://rglzdwqlaqpzfoofnohk.supabase.co/functions/v1/go?url=Q09k4Ouz91gzOKXF1pak4MYmQV9JdsHJokrJdkABFhNcE0zKLw&headers=3OymHRdJERI_4UgRHGHJIRIRFhNcE0zKLpycyCv_EU1Uq1yjin
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4798" tvg-chno="174" tvg-name="Norway vs France — FAST" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4475.png" group-title="Sportzfy: Football",Norway vs France — FAST
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1782442102-0-0-6976393573a3844c5fe5d2313b19925f
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4883" tvg-chno="175" tvg-name="Norway vs France — SP - 2" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4475.png" group-title="Sportzfy: Football",Norway vs France — SP - 2
-https://pul-tenm.nbs3g.com/live/hd-en-1-4459829.m3u8?txSecret=cd9a4f3c8ea7549c2ba0b94890f0a8a4&txTime=6A3F2C48
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4856" tvg-chno="176" tvg-name="Norway vs France — WC TV" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4475.png" group-title="Sportzfy: Football",Norway vs France — WC TV
-https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4759" tvg-chno="177" tvg-name="Norway vs France — Arabic" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4475.png" group-title="Sportzfy: Football",Norway vs France — Arabic
-https://am.proect.xyz/wesa1.m3u8
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4665" tvg-chno="178" tvg-name="Norway vs France — CCTV 5" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4475.png" group-title="Sportzfy: Football",Norway vs France — CCTV 5
-https://live.666666.zip/stream/79635460.m3u8
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4758" tvg-chno="179" tvg-name="Norway vs France — SP - 3" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4475.png" group-title="Sportzfy: Football",Norway vs France — SP - 3
-https://live.666666.zip/stream/80427327.m3u8
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4828" tvg-chno="180" tvg-name="Norway vs France — SP - 4" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4475.png" group-title="Sportzfy: Football",Norway vs France — SP - 4
-https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4722" tvg-chno="181" tvg-name="Norway vs France — FUSSBALL (Germany VPN)" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4475.png" group-title="Sportzfy: Football",Norway vs France — FUSSBALL (Germany VPN)
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4723" tvg-chno="182" tvg-name="Norway vs France — FUSSBALL 4K (Germany VPN)" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4475.png" group-title="Sportzfy: Football",Norway vs France — FUSSBALL 4K (Germany VPN)
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4837" tvg-chno="183" tvg-name="Egypt vs Iran — SP - SD" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4758.png" group-title="Sportzfy: Football",Egypt vs Iran — SP - SD
-https://rglzdwqlaqpzfoofnohk.supabase.co/functions/v1/go?url=Q09k4Ouz91gFOKX9FRoTLpNRopWhojWRopWkQVbmFk6nI0zf&headers=3OymHRdJERI_4UgRHGHJIRIRFhNcE0zKLpycyCv_EU1Uq1yjin
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4885" tvg-chno="184" tvg-name="Egypt vs Iran — SP - HD" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4758.png" group-title="Sportzfy: Football",Egypt vs Iran — SP - HD
-https://rglzdwqlaqpzfoofnohk.supabase.co/functions/v1/go?url=Q09k4Ouz91gzOKXF1pak4MYmQV9JdsHJokrJdkABFhNcE0zKLw&headers=3OymHRdJERI_4UgRHGHJIRIRFhNcE0zKLpycyCv_EU1Uq1yjin
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4798" tvg-chno="185" tvg-name="Egypt vs Iran — FAST" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4758.png" group-title="Sportzfy: Football",Egypt vs Iran — FAST
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1782442102-0-0-6976393573a3844c5fe5d2313b19925f
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4883" tvg-chno="186" tvg-name="Egypt vs Iran — SP - 2" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4758.png" group-title="Sportzfy: Football",Egypt vs Iran — SP - 2
-https://pul-tenm.nbs3g.com/live/hd-en-1-4459829.m3u8?txSecret=cd9a4f3c8ea7549c2ba0b94890f0a8a4&txTime=6A3F2C48
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4856" tvg-chno="187" tvg-name="Egypt vs Iran — WC TV" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4758.png" group-title="Sportzfy: Football",Egypt vs Iran — WC TV
-https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4759" tvg-chno="188" tvg-name="Egypt vs Iran — Arabic" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4758.png" group-title="Sportzfy: Football",Egypt vs Iran — Arabic
-https://am.proect.xyz/wesa1.m3u8
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4665" tvg-chno="189" tvg-name="Egypt vs Iran — CCTV 5" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4758.png" group-title="Sportzfy: Football",Egypt vs Iran — CCTV 5
-https://live.666666.zip/stream/79635460.m3u8
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4758" tvg-chno="190" tvg-name="Egypt vs Iran — SP - 3" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4758.png" group-title="Sportzfy: Football",Egypt vs Iran — SP - 3
-https://live.666666.zip/stream/80427327.m3u8
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4828" tvg-chno="191" tvg-name="Egypt vs Iran — SP - 4" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4758.png" group-title="Sportzfy: Football",Egypt vs Iran — SP - 4
-https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4722" tvg-chno="192" tvg-name="Egypt vs Iran — FUSSBALL (Germany VPN)" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4758.png" group-title="Sportzfy: Football",Egypt vs Iran — FUSSBALL (Germany VPN)
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4723" tvg-chno="193" tvg-name="Egypt vs Iran — FUSSBALL 4K (Germany VPN)" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4758.png" group-title="Sportzfy: Football",Egypt vs Iran — FUSSBALL 4K (Germany VPN)
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4837" tvg-chno="194" tvg-name="New Zealand vs Belgium — SP - SD" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4784.png" group-title="Sportzfy: Football",New Zealand vs Belgium — SP - SD
-https://rglzdwqlaqpzfoofnohk.supabase.co/functions/v1/go?url=Q09k4Ouz91gFOKX9FRoTLpNRopWhojWRopWkQVbmFk6nI0zf&headers=3OymHRdJERI_4UgRHGHJIRIRFhNcE0zKLpycyCv_EU1Uq1yjin
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4885" tvg-chno="195" tvg-name="New Zealand vs Belgium — SP - HD" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4784.png" group-title="Sportzfy: Football",New Zealand vs Belgium — SP - HD
-https://rglzdwqlaqpzfoofnohk.supabase.co/functions/v1/go?url=Q09k4Ouz91gzOKXF1pak4MYmQV9JdsHJokrJdkABFhNcE0zKLw&headers=3OymHRdJERI_4UgRHGHJIRIRFhNcE0zKLpycyCv_EU1Uq1yjin
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4798" tvg-chno="196" tvg-name="New Zealand vs Belgium — FAST" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4784.png" group-title="Sportzfy: Football",New Zealand vs Belgium — FAST
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1782442102-0-0-6976393573a3844c5fe5d2313b19925f
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4883" tvg-chno="197" tvg-name="New Zealand vs Belgium — SP - 2" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4784.png" group-title="Sportzfy: Football",New Zealand vs Belgium — SP - 2
-https://pul-tenm.nbs3g.com/live/hd-en-1-4459829.m3u8?txSecret=cd9a4f3c8ea7549c2ba0b94890f0a8a4&txTime=6A3F2C48
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4856" tvg-chno="198" tvg-name="New Zealand vs Belgium — WC TV" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4784.png" group-title="Sportzfy: Football",New Zealand vs Belgium — WC TV
-https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4759" tvg-chno="199" tvg-name="New Zealand vs Belgium — Arabic" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4784.png" group-title="Sportzfy: Football",New Zealand vs Belgium — Arabic
-https://am.proect.xyz/wesa1.m3u8
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4665" tvg-chno="200" tvg-name="New Zealand vs Belgium — CCTV 5" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4784.png" group-title="Sportzfy: Football",New Zealand vs Belgium — CCTV 5
-https://live.666666.zip/stream/79635460.m3u8
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4758" tvg-chno="201" tvg-name="New Zealand vs Belgium — SP - 3" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4784.png" group-title="Sportzfy: Football",New Zealand vs Belgium — SP - 3
-https://live.666666.zip/stream/80427327.m3u8
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4828" tvg-chno="202" tvg-name="New Zealand vs Belgium — SP - 4" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4784.png" group-title="Sportzfy: Football",New Zealand vs Belgium — SP - 4
-https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4722" tvg-chno="203" tvg-name="New Zealand vs Belgium — FUSSBALL (Germany VPN)" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4784.png" group-title="Sportzfy: Football",New Zealand vs Belgium — FUSSBALL (Germany VPN)
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4723" tvg-chno="204" tvg-name="New Zealand vs Belgium — FUSSBALL 4K (Germany VPN)" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4784.png" group-title="Sportzfy: Football",New Zealand vs Belgium — FUSSBALL 4K (Germany VPN)
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4837" tvg-chno="205" tvg-name="Croatia vs Ghana — SP - SD" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4715.png" group-title="Sportzfy: Football",Croatia vs Ghana — SP - SD
-https://rglzdwqlaqpzfoofnohk.supabase.co/functions/v1/go?url=Q09k4Ouz91gFOKX9FRoTLpNRopWhojWRopWkQVbmFk6nI0zf&headers=3OymHRdJERI_4UgRHGHJIRIRFhNcE0zKLpycyCv_EU1Uq1yjin
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4885" tvg-chno="206" tvg-name="Croatia vs Ghana — SP - HD" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4715.png" group-title="Sportzfy: Football",Croatia vs Ghana — SP - HD
-https://rglzdwqlaqpzfoofnohk.supabase.co/functions/v1/go?url=Q09k4Ouz91gzOKXF1pak4MYmQV9JdsHJokrJdkABFhNcE0zKLw&headers=3OymHRdJERI_4UgRHGHJIRIRFhNcE0zKLpycyCv_EU1Uq1yjin
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4798" tvg-chno="207" tvg-name="Croatia vs Ghana — FAST" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4715.png" group-title="Sportzfy: Football",Croatia vs Ghana — FAST
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1782442102-0-0-6976393573a3844c5fe5d2313b19925f
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4883" tvg-chno="208" tvg-name="Croatia vs Ghana — SP - 2" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4715.png" group-title="Sportzfy: Football",Croatia vs Ghana — SP - 2
-https://pul-tenm.nbs3g.com/live/hd-en-1-4459829.m3u8?txSecret=cd9a4f3c8ea7549c2ba0b94890f0a8a4&txTime=6A3F2C48
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4856" tvg-chno="209" tvg-name="Croatia vs Ghana — WC TV" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4715.png" group-title="Sportzfy: Football",Croatia vs Ghana — WC TV
-https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4759" tvg-chno="210" tvg-name="Croatia vs Ghana — Arabic" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4715.png" group-title="Sportzfy: Football",Croatia vs Ghana — Arabic
-https://am.proect.xyz/wesa1.m3u8
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4665" tvg-chno="211" tvg-name="Croatia vs Ghana — CCTV 5" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4715.png" group-title="Sportzfy: Football",Croatia vs Ghana — CCTV 5
-https://live.666666.zip/stream/79635460.m3u8
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4758" tvg-chno="212" tvg-name="Croatia vs Ghana — SP - 3" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4715.png" group-title="Sportzfy: Football",Croatia vs Ghana — SP - 3
-https://live.666666.zip/stream/80427327.m3u8
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4828" tvg-chno="213" tvg-name="Croatia vs Ghana — SP - 4" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4715.png" group-title="Sportzfy: Football",Croatia vs Ghana — SP - 4
-https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4722" tvg-chno="214" tvg-name="Croatia vs Ghana — FUSSBALL (Germany VPN)" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4715.png" group-title="Sportzfy: Football",Croatia vs Ghana — FUSSBALL (Germany VPN)
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4723" tvg-chno="215" tvg-name="Croatia vs Ghana — FUSSBALL 4K (Germany VPN)" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4715.png" group-title="Sportzfy: Football",Croatia vs Ghana — FUSSBALL 4K (Germany VPN)
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4837" tvg-chno="216" tvg-name="Panama vs England — SP - SD" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/5164.png" group-title="Sportzfy: Football",Panama vs England — SP - SD
-https://rglzdwqlaqpzfoofnohk.supabase.co/functions/v1/go?url=Q09k4Ouz91gFOKX9FRoTLpNRopWhojWRopWkQVbmFk6nI0zf&headers=3OymHRdJERI_4UgRHGHJIRIRFhNcE0zKLpycyCv_EU1Uq1yjin
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4885" tvg-chno="217" tvg-name="Panama vs England — SP - HD" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/5164.png" group-title="Sportzfy: Football",Panama vs England — SP - HD
-https://rglzdwqlaqpzfoofnohk.supabase.co/functions/v1/go?url=Q09k4Ouz91gzOKXF1pak4MYmQV9JdsHJokrJdkABFhNcE0zKLw&headers=3OymHRdJERI_4UgRHGHJIRIRFhNcE0zKLpycyCv_EU1Uq1yjin
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4798" tvg-chno="218" tvg-name="Panama vs England — FAST" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/5164.png" group-title="Sportzfy: Football",Panama vs England — FAST
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1782442102-0-0-6976393573a3844c5fe5d2313b19925f
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4883" tvg-chno="219" tvg-name="Panama vs England — SP - 2" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/5164.png" group-title="Sportzfy: Football",Panama vs England — SP - 2
-https://pul-tenm.nbs3g.com/live/hd-en-1-4459829.m3u8?txSecret=cd9a4f3c8ea7549c2ba0b94890f0a8a4&txTime=6A3F2C48
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4856" tvg-chno="220" tvg-name="Panama vs England — WC TV" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/5164.png" group-title="Sportzfy: Football",Panama vs England — WC TV
-https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4759" tvg-chno="221" tvg-name="Panama vs England — Arabic" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/5164.png" group-title="Sportzfy: Football",Panama vs England — Arabic
-https://am.proect.xyz/wesa1.m3u8
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4665" tvg-chno="222" tvg-name="Panama vs England — CCTV 5" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/5164.png" group-title="Sportzfy: Football",Panama vs England — CCTV 5
-https://live.666666.zip/stream/79635460.m3u8
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4758" tvg-chno="223" tvg-name="Panama vs England — SP - 3" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/5164.png" group-title="Sportzfy: Football",Panama vs England — SP - 3
-https://live.666666.zip/stream/80427327.m3u8
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4828" tvg-chno="224" tvg-name="Panama vs England — SP - 4" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/5164.png" group-title="Sportzfy: Football",Panama vs England — SP - 4
-https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4722" tvg-chno="225" tvg-name="Panama vs England — FUSSBALL (Germany VPN)" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/5164.png" group-title="Sportzfy: Football",Panama vs England — FUSSBALL (Germany VPN)
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
-#EXTINF:-1 tvg-id="spz_FIFA World Cup_4723" tvg-chno="226" tvg-name="Panama vs England — FUSSBALL 4K (Germany VPN)" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/5164.png" group-title="Sportzfy: Football",Panama vs England — FUSSBALL 4K (Germany VPN)
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
-#EXTINF:-1 tvg-id="spz_FIFA World Cup2_4878" tvg-chno="227" tvg-name="Senegal vs Iraq — SP - SD" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4739.png" group-title="Sportzfy: Football",Senegal vs Iraq — SP - SD
-https://rglzdwqlaqpzfoofnohk.supabase.co/functions/v1/go?url=Q09k4Ouz91gFOKX99Oak4MYmQV9JdsHJokrJdkABFhNcE0zKLw&headers=3OymHRdJERI_4UgRHGHJIRIRFhNcE0zKLpycyCv_EU1Uq1yjin
-#EXTINF:-1 tvg-id="spz_FIFA World Cup2_4901" tvg-chno="228" tvg-name="Senegal vs Iraq — SP - HD" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4739.png" group-title="Sportzfy: Football",Senegal vs Iraq — SP - HD
-https://rglzdwqlaqpzfoofnohk.supabase.co/functions/v1/go?url=Q09k4Ouz91gzOKXF1gbmE5BfFkASFsy5FsEKFsdudONmQCPKIMY&headers=3OymHRdJERI_4UgRHGHJIRIRFhNcE0zKLpycyCv_EU1Uq1yjin
-#EXTINF:-1 tvg-id="spz_FIFA World Cup2_4818" tvg-chno="229" tvg-name="Senegal vs Iraq — FAST" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4739.png" group-title="Sportzfy: Football",Senegal vs Iraq — FAST
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1782442942-0-0-63dee76338076ae63d8a0908113d94ca
-#EXTINF:-1 tvg-id="spz_FIFA World Cup2_4747" tvg-chno="230" tvg-name="Senegal vs Iraq — SP - 2" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4739.png" group-title="Sportzfy: Football",Senegal vs Iraq — SP - 2
-https://pul-tenm.nbs3g.com/live/hd-en-1-4460949.m3u8?txSecret=44eba3a6859131e69b3e284041a5996b&txTime=6A3F2C48
-#EXTINF:-1 tvg-id="spz_FIFA World Cup2_4810" tvg-chno="231" tvg-name="Senegal vs Iraq — CCTV 5 +" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4739.png" group-title="Sportzfy: Football",Senegal vs Iraq — CCTV 5 +
-https://live.666666.zip/stream/20233432.m3u8
-#EXTINF:-1 tvg-id="spz_FIFA World Cup2_4884" tvg-chno="232" tvg-name="Senegal vs Iraq — SP - 4" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4739.png" group-title="Sportzfy: Football",Senegal vs Iraq — SP - 4
-https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
-#EXTINF:-1 tvg-id="spz_FIFA World Cup2_4809" tvg-chno="233" tvg-name="Senegal vs Iraq — Arabic" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4739.png" group-title="Sportzfy: Football",Senegal vs Iraq — Arabic
-https://am.proect.xyz/kooq1.m3u8
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1889c6c8cdf57aa3bc90bb976ca6cbdc:48ef3649d9076965b70e79e58b0028ef
-#EXTINF:-1 tvg-id="spz_FIFA World Cup2_4729" tvg-chno="234" tvg-name="Senegal vs Iraq — FUSSBALL2 (Germany VPN)" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4739.png" group-title="Sportzfy: Football",Senegal vs Iraq — FUSSBALL2 (Germany VPN)
-https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_hd/DASH/index.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1b98a0f2de7784c6e132942385a089f3:546eae09a8d81c498dfd08532dcd68a5
-#EXTINF:-1 tvg-id="spz_FIFA World Cup2_4730" tvg-chno="235" tvg-name="Senegal vs Iraq — FUSSBALL2 4K (Germany VPN)" tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4739.png" group-title="Sportzfy: Football",Senegal vs Iraq — FUSSBALL2 4K (Germany VPN)
-https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd
+http://172.19.178.142:18190/hum_sitarey/index.m3u8?token=2683761d6c52dc4361b5269eda31ecca87608471-cfde8e81dfdc625af199fddb075ae25a-1783273850-1783262750
