@@ -655,11 +655,6 @@
     <display-name>Urdu</display-name>
     <icon src="http://172.19.178.178/tv/img/humsitaray.png"/>
   </channel>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="1783279055285">
-    <title lang="en">FIFA (S) Live</title>
-    <desc lang="en">Live programming on FIFA (S) (0_FIFA).</desc>
-    <category lang="en">0_FIFA</category>
-  </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="1783279055285">
     <title lang="en">FIFA (S) Live</title>
     <desc lang="en">Live programming on FIFA (S) (0_FIFA).</desc>
@@ -695,9 +690,9 @@
     <desc lang="en">Live programming on FIFA (S) (0_FIFA).</desc>
     <category lang="en">0_FIFA</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="1782145624185">
-    <title lang="en">FIFA (S0) Live</title>
-    <desc lang="en">Live programming on FIFA (S0) (0_FIFA).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="1783279055285">
+    <title lang="en">FIFA (S) Live</title>
+    <desc lang="en">Live programming on FIFA (S) (0_FIFA).</desc>
     <category lang="en">0_FIFA</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="1782145624185">
@@ -735,9 +730,9 @@
     <desc lang="en">Live programming on FIFA (S0) (0_FIFA).</desc>
     <category lang="en">0_FIFA</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="1781903059100">
-    <title lang="en">FIFA (S01) Live</title>
-    <desc lang="en">Live programming on FIFA (S01) (0_FIFA).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="1782145624185">
+    <title lang="en">FIFA (S0) Live</title>
+    <desc lang="en">Live programming on FIFA (S0) (0_FIFA).</desc>
     <category lang="en">0_FIFA</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="1781903059100">
@@ -775,9 +770,9 @@
     <desc lang="en">Live programming on FIFA (S01) (0_FIFA).</desc>
     <category lang="en">0_FIFA</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="1781902591905">
-    <title lang="en">FIFA (S02) Live</title>
-    <desc lang="en">Live programming on FIFA (S02) (0_FIFA).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="1781903059100">
+    <title lang="en">FIFA (S01) Live</title>
+    <desc lang="en">Live programming on FIFA (S01) (0_FIFA).</desc>
     <category lang="en">0_FIFA</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="1781902591905">
@@ -815,9 +810,9 @@
     <desc lang="en">Live programming on FIFA (S02) (0_FIFA).</desc>
     <category lang="en">0_FIFA</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="1781902491838">
-    <title lang="en">FIFA (S03) Live</title>
-    <desc lang="en">Live programming on FIFA (S03) (0_FIFA).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="1781902591905">
+    <title lang="en">FIFA (S02) Live</title>
+    <desc lang="en">Live programming on FIFA (S02) (0_FIFA).</desc>
     <category lang="en">0_FIFA</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="1781902491838">
@@ -855,9 +850,9 @@
     <desc lang="en">Live programming on FIFA (S03) (0_FIFA).</desc>
     <category lang="en">0_FIFA</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="1781278465099">
-    <title lang="en">FIFA (S04) Live</title>
-    <desc lang="en">Live programming on FIFA (S04) (0_FIFA).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="1781902491838">
+    <title lang="en">FIFA (S03) Live</title>
+    <desc lang="en">Live programming on FIFA (S03) (0_FIFA).</desc>
     <category lang="en">0_FIFA</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="1781278465099">
@@ -895,9 +890,9 @@
     <desc lang="en">Live programming on FIFA (S04) (0_FIFA).</desc>
     <category lang="en">0_FIFA</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="1781278102279">
-    <title lang="en">FIFA (S05) Live</title>
-    <desc lang="en">Live programming on FIFA (S05) (0_FIFA).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="1781278465099">
+    <title lang="en">FIFA (S04) Live</title>
+    <desc lang="en">Live programming on FIFA (S04) (0_FIFA).</desc>
     <category lang="en">0_FIFA</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="1781278102279">
@@ -935,9 +930,9 @@
     <desc lang="en">Live programming on FIFA (S05) (0_FIFA).</desc>
     <category lang="en">0_FIFA</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="1781277684102">
-    <title lang="en">FIFA (S06) Live</title>
-    <desc lang="en">Live programming on FIFA (S06) (0_FIFA).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="1781278102279">
+    <title lang="en">FIFA (S05) Live</title>
+    <desc lang="en">Live programming on FIFA (S05) (0_FIFA).</desc>
     <category lang="en">0_FIFA</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="1781277684102">
@@ -975,9 +970,9 @@
     <desc lang="en">Live programming on FIFA (S06) (0_FIFA).</desc>
     <category lang="en">0_FIFA</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="1781277543795">
-    <title lang="en">FIFA (S07) Live</title>
-    <desc lang="en">Live programming on FIFA (S07) (0_FIFA).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="1781277684102">
+    <title lang="en">FIFA (S06) Live</title>
+    <desc lang="en">Live programming on FIFA (S06) (0_FIFA).</desc>
     <category lang="en">0_FIFA</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="1781277543795">
@@ -1015,9 +1010,9 @@
     <desc lang="en">Live programming on FIFA (S07) (0_FIFA).</desc>
     <category lang="en">0_FIFA</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="1781277381136">
-    <title lang="en">FIFA (S08) Live</title>
-    <desc lang="en">Live programming on FIFA (S08) (0_FIFA).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="1781277543795">
+    <title lang="en">FIFA (S07) Live</title>
+    <desc lang="en">Live programming on FIFA (S07) (0_FIFA).</desc>
     <category lang="en">0_FIFA</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="1781277381136">
@@ -1055,9 +1050,9 @@
     <desc lang="en">Live programming on FIFA (S08) (0_FIFA).</desc>
     <category lang="en">0_FIFA</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="1781261544544">
-    <title lang="en">FIFA (S09) Live</title>
-    <desc lang="en">Live programming on FIFA (S09) (0_FIFA).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="1781277381136">
+    <title lang="en">FIFA (S08) Live</title>
+    <desc lang="en">Live programming on FIFA (S08) (0_FIFA).</desc>
     <category lang="en">0_FIFA</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="1781261544544">
@@ -1095,9 +1090,9 @@
     <desc lang="en">Live programming on FIFA (S09) (0_FIFA).</desc>
     <category lang="en">0_FIFA</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="1781261502299">
-    <title lang="en">FIFA (S10) Live</title>
-    <desc lang="en">Live programming on FIFA (S10) (0_FIFA).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="1781261544544">
+    <title lang="en">FIFA (S09) Live</title>
+    <desc lang="en">Live programming on FIFA (S09) (0_FIFA).</desc>
     <category lang="en">0_FIFA</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="1781261502299">
@@ -1135,10 +1130,10 @@
     <desc lang="en">Live programming on FIFA (S10) (0_FIFA).</desc>
     <category lang="en">0_FIFA</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="1781277016889">
-    <title lang="en">Eurosport Live</title>
-    <desc lang="en">Live programming on Eurosport (1_LIVE).</desc>
-    <category lang="en">1_LIVE</category>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="1781261502299">
+    <title lang="en">FIFA (S10) Live</title>
+    <desc lang="en">Live programming on FIFA (S10) (0_FIFA).</desc>
+    <category lang="en">0_FIFA</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="1781277016889">
     <title lang="en">Eurosport Live</title>
@@ -1175,9 +1170,9 @@
     <desc lang="en">Live programming on Eurosport (1_LIVE).</desc>
     <category lang="en">1_LIVE</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="5564738291">
-    <title lang="en">PTV Sports Live</title>
-    <desc lang="en">Live programming on PTV Sports (1_LIVE).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="1781277016889">
+    <title lang="en">Eurosport Live</title>
+    <desc lang="en">Live programming on Eurosport (1_LIVE).</desc>
     <category lang="en">1_LIVE</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="5564738291">
@@ -1215,9 +1210,9 @@
     <desc lang="en">Live programming on PTV Sports (1_LIVE).</desc>
     <category lang="en">1_LIVE</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="1102938475">
-    <title lang="en">T Sports Live</title>
-    <desc lang="en">Live programming on T Sports (1_LIVE).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="5564738291">
+    <title lang="en">PTV Sports Live</title>
+    <desc lang="en">Live programming on PTV Sports (1_LIVE).</desc>
     <category lang="en">1_LIVE</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="1102938475">
@@ -1255,9 +1250,9 @@
     <desc lang="en">Live programming on T Sports (1_LIVE).</desc>
     <category lang="en">1_LIVE</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="6657483920">
-    <title lang="en">Star Jalsha Live</title>
-    <desc lang="en">Live programming on Star Jalsha (1_LIVE).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="1102938475">
+    <title lang="en">T Sports Live</title>
+    <desc lang="en">Live programming on T Sports (1_LIVE).</desc>
     <category lang="en">1_LIVE</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="6657483920">
@@ -1295,9 +1290,9 @@
     <desc lang="en">Live programming on Star Jalsha (1_LIVE).</desc>
     <category lang="en">1_LIVE</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="4958671230">
-    <title lang="en">Sony Sports Ten 5 Live</title>
-    <desc lang="en">Live programming on Sony Sports Ten 5 (1_LIVE).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="6657483920">
+    <title lang="en">Star Jalsha Live</title>
+    <desc lang="en">Live programming on Star Jalsha (1_LIVE).</desc>
     <category lang="en">1_LIVE</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="4958671230">
@@ -1335,9 +1330,9 @@
     <desc lang="en">Live programming on Sony Sports Ten 5 (1_LIVE).</desc>
     <category lang="en">1_LIVE</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="9182736451">
-    <title lang="en">Star Sports Select 1 Live</title>
-    <desc lang="en">Live programming on Star Sports Select 1 (1_LIVE).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="4958671230">
+    <title lang="en">Sony Sports Ten 5 Live</title>
+    <desc lang="en">Live programming on Sony Sports Ten 5 (1_LIVE).</desc>
     <category lang="en">1_LIVE</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="9182736451">
@@ -1375,9 +1370,9 @@
     <desc lang="en">Live programming on Star Sports Select 1 (1_LIVE).</desc>
     <category lang="en">1_LIVE</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="3847561290">
-    <title lang="en">Sony Sports Ten 2 Live</title>
-    <desc lang="en">Live programming on Sony Sports Ten 2 (1_LIVE).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="9182736451">
+    <title lang="en">Star Sports Select 1 Live</title>
+    <desc lang="en">Live programming on Star Sports Select 1 (1_LIVE).</desc>
     <category lang="en">1_LIVE</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="3847561290">
@@ -1415,9 +1410,9 @@
     <desc lang="en">Live programming on Sony Sports Ten 2 (1_LIVE).</desc>
     <category lang="en">1_LIVE</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="1029384762">
-    <title lang="en">T Sports Live</title>
-    <desc lang="en">Live programming on T Sports (1_LIVE).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="3847561290">
+    <title lang="en">Sony Sports Ten 2 Live</title>
+    <desc lang="en">Live programming on Sony Sports Ten 2 (1_LIVE).</desc>
     <category lang="en">1_LIVE</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="1029384762">
@@ -1455,10 +1450,10 @@
     <desc lang="en">Live programming on T Sports (1_LIVE).</desc>
     <category lang="en">1_LIVE</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="9988776655">
-    <title lang="en">ATN Bangla Live</title>
-    <desc lang="en">Live programming on ATN Bangla (Bangladeshi).</desc>
-    <category lang="en">Bangladeshi</category>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="1029384762">
+    <title lang="en">T Sports Live</title>
+    <desc lang="en">Live programming on T Sports (1_LIVE).</desc>
+    <category lang="en">1_LIVE</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="9988776655">
     <title lang="en">ATN Bangla Live</title>
@@ -1495,9 +1490,9 @@
     <desc lang="en">Live programming on ATN Bangla (Bangladeshi).</desc>
     <category lang="en">Bangladeshi</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="7766554433">
-    <title lang="en">Asian Live</title>
-    <desc lang="en">Live programming on Asian (Bangladeshi).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="9988776655">
+    <title lang="en">ATN Bangla Live</title>
+    <desc lang="en">Live programming on ATN Bangla (Bangladeshi).</desc>
     <category lang="en">Bangladeshi</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="7766554433">
@@ -1535,9 +1530,9 @@
     <desc lang="en">Live programming on Asian (Bangladeshi).</desc>
     <category lang="en">Bangladeshi</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="2233445566">
-    <title lang="en">Ananda TV Live</title>
-    <desc lang="en">Live programming on Ananda TV (Bangladeshi).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="7766554433">
+    <title lang="en">Asian Live</title>
+    <desc lang="en">Live programming on Asian (Bangladeshi).</desc>
     <category lang="en">Bangladeshi</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="2233445566">
@@ -1575,9 +1570,9 @@
     <desc lang="en">Live programming on Ananda TV (Bangladeshi).</desc>
     <category lang="en">Bangladeshi</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="8899001122">
-    <title lang="en">Bangla TV Live</title>
-    <desc lang="en">Live programming on Bangla TV (Bangladeshi).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="2233445566">
+    <title lang="en">Ananda TV Live</title>
+    <desc lang="en">Live programming on Ananda TV (Bangladeshi).</desc>
     <category lang="en">Bangladeshi</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="8899001122">
@@ -1615,9 +1610,9 @@
     <desc lang="en">Live programming on Bangla TV (Bangladeshi).</desc>
     <category lang="en">Bangladeshi</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="6677889900">
-    <title lang="en">Boishakhi TV Live</title>
-    <desc lang="en">Live programming on Boishakhi TV (Bangladeshi).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="8899001122">
+    <title lang="en">Bangla TV Live</title>
+    <desc lang="en">Live programming on Bangla TV (Bangladeshi).</desc>
     <category lang="en">Bangladeshi</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="6677889900">
@@ -1655,9 +1650,9 @@
     <desc lang="en">Live programming on Boishakhi TV (Bangladeshi).</desc>
     <category lang="en">Bangladeshi</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="1122334455">
-    <title lang="en">Bijoy TV Live</title>
-    <desc lang="en">Live programming on Bijoy TV (Bangladeshi).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="6677889900">
+    <title lang="en">Boishakhi TV Live</title>
+    <desc lang="en">Live programming on Boishakhi TV (Bangladeshi).</desc>
     <category lang="en">Bangladeshi</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="1122334455">
@@ -1695,9 +1690,9 @@
     <desc lang="en">Live programming on Bijoy TV (Bangladeshi).</desc>
     <category lang="en">Bangladeshi</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="5544332211">
-    <title lang="en">Bangla Vision Live</title>
-    <desc lang="en">Live programming on Bangla Vision (Bangladeshi).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="1122334455">
+    <title lang="en">Bijoy TV Live</title>
+    <desc lang="en">Live programming on Bijoy TV (Bangladeshi).</desc>
     <category lang="en">Bangladeshi</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="5544332211">
@@ -1735,9 +1730,9 @@
     <desc lang="en">Live programming on Bangla Vision (Bangladeshi).</desc>
     <category lang="en">Bangladeshi</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="4321432143">
-    <title lang="en">BTV Live</title>
-    <desc lang="en">Live programming on BTV (Bangladeshi).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="5544332211">
+    <title lang="en">Bangla Vision Live</title>
+    <desc lang="en">Live programming on Bangla Vision (Bangladeshi).</desc>
     <category lang="en">Bangladeshi</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="4321432143">
@@ -1775,9 +1770,9 @@
     <desc lang="en">Live programming on BTV (Bangladeshi).</desc>
     <category lang="en">Bangladeshi</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="8765432109">
-    <title lang="en">Channel I Live</title>
-    <desc lang="en">Live programming on Channel I (Bangladeshi).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="4321432143">
+    <title lang="en">BTV Live</title>
+    <desc lang="en">Live programming on BTV (Bangladeshi).</desc>
     <category lang="en">Bangladeshi</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="8765432109">
@@ -1815,9 +1810,9 @@
     <desc lang="en">Live programming on Channel I (Bangladeshi).</desc>
     <category lang="en">Bangladeshi</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="7654321098">
-    <title lang="en">Channel 9 Live</title>
-    <desc lang="en">Live programming on Channel 9 (Bangladeshi).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="8765432109">
+    <title lang="en">Channel I Live</title>
+    <desc lang="en">Live programming on Channel I (Bangladeshi).</desc>
     <category lang="en">Bangladeshi</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="7654321098">
@@ -1855,9 +1850,9 @@
     <desc lang="en">Live programming on Channel 9 (Bangladeshi).</desc>
     <category lang="en">Bangladeshi</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="6543210987">
-    <title lang="en">Deepto Live</title>
-    <desc lang="en">Live programming on Deepto (Bangladeshi).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="7654321098">
+    <title lang="en">Channel 9 Live</title>
+    <desc lang="en">Live programming on Channel 9 (Bangladeshi).</desc>
     <category lang="en">Bangladeshi</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="6543210987">
@@ -1895,9 +1890,9 @@
     <desc lang="en">Live programming on Deepto (Bangladeshi).</desc>
     <category lang="en">Bangladeshi</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="5432109876">
-    <title lang="en">Desh TV Live</title>
-    <desc lang="en">Live programming on Desh TV (Bangladeshi).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="6543210987">
+    <title lang="en">Deepto Live</title>
+    <desc lang="en">Live programming on Deepto (Bangladeshi).</desc>
     <category lang="en">Bangladeshi</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="5432109876">
@@ -1935,10 +1930,10 @@
     <desc lang="en">Live programming on Desh TV (Bangladeshi).</desc>
     <category lang="en">Bangladeshi</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="4343434345">
-    <title lang="en">Sony Pix Live</title>
-    <desc lang="en">Live programming on Sony Pix (English).</desc>
-    <category lang="en">English</category>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="5432109876">
+    <title lang="en">Desh TV Live</title>
+    <desc lang="en">Live programming on Desh TV (Bangladeshi).</desc>
+    <category lang="en">Bangladeshi</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="4343434345">
     <title lang="en">Sony Pix Live</title>
@@ -1975,9 +1970,9 @@
     <desc lang="en">Live programming on Sony Pix (English).</desc>
     <category lang="en">English</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="8787878790">
-    <title lang="en">&amp;flix Live</title>
-    <desc lang="en">Live programming on &amp;flix (English).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="4343434345">
+    <title lang="en">Sony Pix Live</title>
+    <desc lang="en">Live programming on Sony Pix (English).</desc>
     <category lang="en">English</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="8787878790">
@@ -2015,9 +2010,9 @@
     <desc lang="en">Live programming on &amp;flix (English).</desc>
     <category lang="en">English</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="7676767679">
-    <title lang="en">&amp;prive Live</title>
-    <desc lang="en">Live programming on &amp;prive (English).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="8787878790">
+    <title lang="en">&amp;flix Live</title>
+    <desc lang="en">Live programming on &amp;flix (English).</desc>
     <category lang="en">English</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="7676767679">
@@ -2055,9 +2050,9 @@
     <desc lang="en">Live programming on &amp;prive (English).</desc>
     <category lang="en">English</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="5454545457">
-    <title lang="en">AXN Live</title>
-    <desc lang="en">Live programming on AXN (English).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="7676767679">
+    <title lang="en">&amp;prive Live</title>
+    <desc lang="en">Live programming on &amp;prive (English).</desc>
     <category lang="en">English</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="5454545457">
@@ -2095,9 +2090,9 @@
     <desc lang="en">Live programming on AXN (English).</desc>
     <category lang="en">English</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="1010101014">
-    <title lang="en">Lotus Live</title>
-    <desc lang="en">Live programming on Lotus (English).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="5454545457">
+    <title lang="en">AXN Live</title>
+    <desc lang="en">Live programming on AXN (English).</desc>
     <category lang="en">English</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="1010101014">
@@ -2135,9 +2130,9 @@
     <desc lang="en">Live programming on Lotus (English).</desc>
     <category lang="en">English</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="8282828286">
-    <title lang="en">MN+ Live</title>
-    <desc lang="en">Live programming on MN+ (English).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="1010101014">
+    <title lang="en">Lotus Live</title>
+    <desc lang="en">Live programming on Lotus (English).</desc>
     <category lang="en">English</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="8282828286">
@@ -2175,9 +2170,9 @@
     <desc lang="en">Live programming on MN+ (English).</desc>
     <category lang="en">English</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="7373737377">
-    <title lang="en">MNX Live</title>
-    <desc lang="en">Live programming on MNX (English).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="8282828286">
+    <title lang="en">MN+ Live</title>
+    <desc lang="en">Live programming on MN+ (English).</desc>
     <category lang="en">English</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="7373737377">
@@ -2215,9 +2210,9 @@
     <desc lang="en">Live programming on MNX (English).</desc>
     <category lang="en">English</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="6464646468">
-    <title lang="en">Movies Now Live</title>
-    <desc lang="en">Live programming on Movies Now (English).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="7373737377">
+    <title lang="en">MNX Live</title>
+    <desc lang="en">Live programming on MNX (English).</desc>
     <category lang="en">English</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="6464646468">
@@ -2255,9 +2250,9 @@
     <desc lang="en">Live programming on Movies Now (English).</desc>
     <category lang="en">English</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="5555555559">
-    <title lang="en">Romedy Now Live</title>
-    <desc lang="en">Live programming on Romedy Now (English).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="6464646468">
+    <title lang="en">Movies Now Live</title>
+    <desc lang="en">Live programming on Movies Now (English).</desc>
     <category lang="en">English</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="5555555559">
@@ -2295,9 +2290,9 @@
     <desc lang="en">Live programming on Romedy Now (English).</desc>
     <category lang="en">English</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="4646464650">
-    <title lang="en">Sony Pix Live</title>
-    <desc lang="en">Live programming on Sony Pix (English).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="5555555559">
+    <title lang="en">Romedy Now Live</title>
+    <desc lang="en">Live programming on Romedy Now (English).</desc>
     <category lang="en">English</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="4646464650">
@@ -2335,9 +2330,9 @@
     <desc lang="en">Live programming on Sony Pix (English).</desc>
     <category lang="en">English</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="3737373741">
-    <title lang="en">Star Movies Live</title>
-    <desc lang="en">Live programming on Star Movies (English).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="4646464650">
+    <title lang="en">Sony Pix Live</title>
+    <desc lang="en">Live programming on Sony Pix (English).</desc>
     <category lang="en">English</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="3737373741">
@@ -2375,9 +2370,9 @@
     <desc lang="en">Live programming on Star Movies (English).</desc>
     <category lang="en">English</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="2828282832">
-    <title lang="en">Star Movies Select Live</title>
-    <desc lang="en">Live programming on Star Movies Select (English).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="3737373741">
+    <title lang="en">Star Movies Live</title>
+    <desc lang="en">Live programming on Star Movies (English).</desc>
     <category lang="en">English</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="2828282832">
@@ -2415,10 +2410,10 @@
     <desc lang="en">Live programming on Star Movies Select (English).</desc>
     <category lang="en">English</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="7373737374">
-    <title lang="en">Star Plus Live</title>
-    <desc lang="en">Live programming on Star Plus (Hindi).</desc>
-    <category lang="en">Hindi</category>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="2828282832">
+    <title lang="en">Star Movies Select Live</title>
+    <desc lang="en">Live programming on Star Movies Select (English).</desc>
+    <category lang="en">English</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="7373737374">
     <title lang="en">Star Plus Live</title>
@@ -2455,9 +2450,9 @@
     <desc lang="en">Live programming on Star Plus (Hindi).</desc>
     <category lang="en">Hindi</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="6464646465">
-    <title lang="en">Zee TV Live</title>
-    <desc lang="en">Live programming on Zee TV (Hindi).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="7373737374">
+    <title lang="en">Star Plus Live</title>
+    <desc lang="en">Live programming on Star Plus (Hindi).</desc>
     <category lang="en">Hindi</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="6464646465">
@@ -2495,9 +2490,9 @@
     <desc lang="en">Live programming on Zee TV (Hindi).</desc>
     <category lang="en">Hindi</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="5555555556">
-    <title lang="en">Sony Entertainment Television Live</title>
-    <desc lang="en">Live programming on Sony Entertainment Television (Hindi).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="6464646465">
+    <title lang="en">Zee TV Live</title>
+    <desc lang="en">Live programming on Zee TV (Hindi).</desc>
     <category lang="en">Hindi</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="5555555556">
@@ -2535,9 +2530,9 @@
     <desc lang="en">Live programming on Sony Entertainment Television (Hindi).</desc>
     <category lang="en">Hindi</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="4646464647">
-    <title lang="en">Colors Live</title>
-    <desc lang="en">Live programming on Colors (Hindi).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="5555555556">
+    <title lang="en">Sony Entertainment Television Live</title>
+    <desc lang="en">Live programming on Sony Entertainment Television (Hindi).</desc>
     <category lang="en">Hindi</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="4646464647">
@@ -2575,9 +2570,9 @@
     <desc lang="en">Live programming on Colors (Hindi).</desc>
     <category lang="en">Hindi</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="3737373738">
-    <title lang="en">&amp; TV Live</title>
-    <desc lang="en">Live programming on &amp; TV (Hindi).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="4646464647">
+    <title lang="en">Colors Live</title>
+    <desc lang="en">Live programming on Colors (Hindi).</desc>
     <category lang="en">Hindi</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="3737373738">
@@ -2615,9 +2610,9 @@
     <desc lang="en">Live programming on &amp; TV (Hindi).</desc>
     <category lang="en">Hindi</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="2828282829">
-    <title lang="en">Star Bharat Live</title>
-    <desc lang="en">Live programming on Star Bharat (Hindi).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="3737373738">
+    <title lang="en">&amp; TV Live</title>
+    <desc lang="en">Live programming on &amp; TV (Hindi).</desc>
     <category lang="en">Hindi</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="2828282829">
@@ -2655,9 +2650,9 @@
     <desc lang="en">Live programming on Star Bharat (Hindi).</desc>
     <category lang="en">Hindi</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="1919191920">
-    <title lang="en">Star Gold Live</title>
-    <desc lang="en">Live programming on Star Gold (Hindi).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="2828282829">
+    <title lang="en">Star Bharat Live</title>
+    <desc lang="en">Live programming on Star Bharat (Hindi).</desc>
     <category lang="en">Hindi</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="1919191920">
@@ -2695,9 +2690,9 @@
     <desc lang="en">Live programming on Star Gold (Hindi).</desc>
     <category lang="en">Hindi</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="0909090910">
-    <title lang="en">Star Gold 2 Live</title>
-    <desc lang="en">Live programming on Star Gold 2 (Hindi).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="1919191920">
+    <title lang="en">Star Gold Live</title>
+    <desc lang="en">Live programming on Star Gold (Hindi).</desc>
     <category lang="en">Hindi</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="0909090910">
@@ -2735,9 +2730,9 @@
     <desc lang="en">Live programming on Star Gold 2 (Hindi).</desc>
     <category lang="en">Hindi</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="9898989899">
-    <title lang="en">Star Gold Select Live</title>
-    <desc lang="en">Live programming on Star Gold Select (Hindi).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="0909090910">
+    <title lang="en">Star Gold 2 Live</title>
+    <desc lang="en">Live programming on Star Gold 2 (Hindi).</desc>
     <category lang="en">Hindi</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="9898989899">
@@ -2775,9 +2770,9 @@
     <desc lang="en">Live programming on Star Gold Select (Hindi).</desc>
     <category lang="en">Hindi</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="8787878788">
-    <title lang="en">Zee Cinema HD Live</title>
-    <desc lang="en">Live programming on Zee Cinema HD (Hindi).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="9898989899">
+    <title lang="en">Star Gold Select Live</title>
+    <desc lang="en">Live programming on Star Gold Select (Hindi).</desc>
     <category lang="en">Hindi</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="8787878788">
@@ -2815,9 +2810,9 @@
     <desc lang="en">Live programming on Zee Cinema HD (Hindi).</desc>
     <category lang="en">Hindi</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="7676767677">
-    <title lang="en">Zee Cinema Live</title>
-    <desc lang="en">Live programming on Zee Cinema (Hindi).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="8787878788">
+    <title lang="en">Zee Cinema HD Live</title>
+    <desc lang="en">Live programming on Zee Cinema HD (Hindi).</desc>
     <category lang="en">Hindi</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="7676767677">
@@ -2855,9 +2850,9 @@
     <desc lang="en">Live programming on Zee Cinema (Hindi).</desc>
     <category lang="en">Hindi</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="6565656566">
-    <title lang="en">Zee Action Live</title>
-    <desc lang="en">Live programming on Zee Action (Hindi).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="7676767677">
+    <title lang="en">Zee Cinema Live</title>
+    <desc lang="en">Live programming on Zee Cinema (Hindi).</desc>
     <category lang="en">Hindi</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="6565656566">
@@ -2895,10 +2890,10 @@
     <desc lang="en">Live programming on Zee Action (Hindi).</desc>
     <category lang="en">Hindi</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="1919191919">
-    <title lang="en">Star Jalsha Live</title>
-    <desc lang="en">Live programming on Star Jalsha (Indian_Bangla).</desc>
-    <category lang="en">Indian_Bangla</category>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="6565656566">
+    <title lang="en">Zee Action Live</title>
+    <desc lang="en">Live programming on Zee Action (Hindi).</desc>
+    <category lang="en">Hindi</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="1919191919">
     <title lang="en">Star Jalsha Live</title>
@@ -2935,9 +2930,9 @@
     <desc lang="en">Live programming on Star Jalsha (Indian_Bangla).</desc>
     <category lang="en">Indian_Bangla</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="0909090909">
-    <title lang="en">Zee Bangla Live</title>
-    <desc lang="en">Live programming on Zee Bangla (Indian_Bangla).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="1919191919">
+    <title lang="en">Star Jalsha Live</title>
+    <desc lang="en">Live programming on Star Jalsha (Indian_Bangla).</desc>
     <category lang="en">Indian_Bangla</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="0909090909">
@@ -2975,9 +2970,9 @@
     <desc lang="en">Live programming on Zee Bangla (Indian_Bangla).</desc>
     <category lang="en">Indian_Bangla</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="9898989898">
-    <title lang="en">Colors Bangla Live</title>
-    <desc lang="en">Live programming on Colors Bangla (Indian_Bangla).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="0909090909">
+    <title lang="en">Zee Bangla Live</title>
+    <desc lang="en">Live programming on Zee Bangla (Indian_Bangla).</desc>
     <category lang="en">Indian_Bangla</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="9898989898">
@@ -3015,9 +3010,9 @@
     <desc lang="en">Live programming on Colors Bangla (Indian_Bangla).</desc>
     <category lang="en">Indian_Bangla</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="8787878787">
-    <title lang="en">Sony Aath Live</title>
-    <desc lang="en">Live programming on Sony Aath (Indian_Bangla).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="9898989898">
+    <title lang="en">Colors Bangla Live</title>
+    <desc lang="en">Live programming on Colors Bangla (Indian_Bangla).</desc>
     <category lang="en">Indian_Bangla</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="8787878787">
@@ -3055,9 +3050,9 @@
     <desc lang="en">Live programming on Sony Aath (Indian_Bangla).</desc>
     <category lang="en">Indian_Bangla</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="7676767676">
-    <title lang="en">Jalsha Movies Live</title>
-    <desc lang="en">Live programming on Jalsha Movies (Indian_Bangla).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="8787878787">
+    <title lang="en">Sony Aath Live</title>
+    <desc lang="en">Live programming on Sony Aath (Indian_Bangla).</desc>
     <category lang="en">Indian_Bangla</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="7676767676">
@@ -3095,9 +3090,9 @@
     <desc lang="en">Live programming on Jalsha Movies (Indian_Bangla).</desc>
     <category lang="en">Indian_Bangla</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="6565656565">
-    <title lang="en">Zee Bangla Cinema Live</title>
-    <desc lang="en">Live programming on Zee Bangla Cinema (Indian_Bangla).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="7676767676">
+    <title lang="en">Jalsha Movies Live</title>
+    <desc lang="en">Live programming on Jalsha Movies (Indian_Bangla).</desc>
     <category lang="en">Indian_Bangla</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="6565656565">
@@ -3135,9 +3130,9 @@
     <desc lang="en">Live programming on Zee Bangla Cinema (Indian_Bangla).</desc>
     <category lang="en">Indian_Bangla</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="5454545454">
-    <title lang="en">Colors Bangla Cinema Live</title>
-    <desc lang="en">Live programming on Colors Bangla Cinema (Indian_Bangla).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="6565656565">
+    <title lang="en">Zee Bangla Cinema Live</title>
+    <desc lang="en">Live programming on Zee Bangla Cinema (Indian_Bangla).</desc>
     <category lang="en">Indian_Bangla</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="5454545454">
@@ -3175,9 +3170,9 @@
     <desc lang="en">Live programming on Colors Bangla Cinema (Indian_Bangla).</desc>
     <category lang="en">Indian_Bangla</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="4343434343">
-    <title lang="en">Aakash Aath Live</title>
-    <desc lang="en">Live programming on Aakash Aath (Indian_Bangla).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="5454545454">
+    <title lang="en">Colors Bangla Cinema Live</title>
+    <desc lang="en">Live programming on Colors Bangla Cinema (Indian_Bangla).</desc>
     <category lang="en">Indian_Bangla</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="4343434343">
@@ -3215,9 +3210,9 @@
     <desc lang="en">Live programming on Aakash Aath (Indian_Bangla).</desc>
     <category lang="en">Indian_Bangla</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="3232323232">
-    <title lang="en">Enterr10 Bangla Live</title>
-    <desc lang="en">Live programming on Enterr10 Bangla (Indian_Bangla).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="4343434343">
+    <title lang="en">Aakash Aath Live</title>
+    <desc lang="en">Live programming on Aakash Aath (Indian_Bangla).</desc>
     <category lang="en">Indian_Bangla</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="3232323232">
@@ -3255,9 +3250,9 @@
     <desc lang="en">Live programming on Enterr10 Bangla (Indian_Bangla).</desc>
     <category lang="en">Indian_Bangla</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="2121212121">
-    <title lang="en">Rongeen TV Live</title>
-    <desc lang="en">Live programming on Rongeen TV (Indian_Bangla).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="3232323232">
+    <title lang="en">Enterr10 Bangla Live</title>
+    <desc lang="en">Live programming on Enterr10 Bangla (Indian_Bangla).</desc>
     <category lang="en">Indian_Bangla</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="2121212121">
@@ -3295,9 +3290,9 @@
     <desc lang="en">Live programming on Rongeen TV (Indian_Bangla).</desc>
     <category lang="en">Indian_Bangla</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="1010101011">
-    <title lang="en">Ruposhi Bangla Live</title>
-    <desc lang="en">Live programming on Ruposhi Bangla (Indian_Bangla).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="2121212121">
+    <title lang="en">Rongeen TV Live</title>
+    <desc lang="en">Live programming on Rongeen TV (Indian_Bangla).</desc>
     <category lang="en">Indian_Bangla</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="1010101011">
@@ -3335,9 +3330,9 @@
     <desc lang="en">Live programming on Ruposhi Bangla (Indian_Bangla).</desc>
     <category lang="en">Indian_Bangla</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="9191919192">
-    <title lang="en">Sun Bangla Live</title>
-    <desc lang="en">Live programming on Sun Bangla (Indian_Bangla).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="1010101011">
+    <title lang="en">Ruposhi Bangla Live</title>
+    <desc lang="en">Live programming on Ruposhi Bangla (Indian_Bangla).</desc>
     <category lang="en">Indian_Bangla</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="9191919192">
@@ -3375,10 +3370,10 @@
     <desc lang="en">Live programming on Sun Bangla (Indian_Bangla).</desc>
     <category lang="en">Indian_Bangla</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="8787878789">
-    <title lang="en">Hum Masala Live</title>
-    <desc lang="en">Live programming on Hum Masala (Infotainment).</desc>
-    <category lang="en">Infotainment</category>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="9191919192">
+    <title lang="en">Sun Bangla Live</title>
+    <desc lang="en">Live programming on Sun Bangla (Indian_Bangla).</desc>
+    <category lang="en">Indian_Bangla</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="8787878789">
     <title lang="en">Hum Masala Live</title>
@@ -3415,9 +3410,9 @@
     <desc lang="en">Live programming on Hum Masala (Infotainment).</desc>
     <category lang="en">Infotainment</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="9191919195">
-    <title lang="en">Love Nature Live</title>
-    <desc lang="en">Live programming on Love Nature (Infotainment).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="8787878789">
+    <title lang="en">Hum Masala Live</title>
+    <desc lang="en">Live programming on Hum Masala (Infotainment).</desc>
     <category lang="en">Infotainment</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="9191919195">
@@ -3455,9 +3450,9 @@
     <desc lang="en">Live programming on Love Nature (Infotainment).</desc>
     <category lang="en">Infotainment</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="0909090913">
-    <title lang="en">Animal Planet Live</title>
-    <desc lang="en">Live programming on Animal Planet (Infotainment).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="9191919195">
+    <title lang="en">Love Nature Live</title>
+    <desc lang="en">Live programming on Love Nature (Infotainment).</desc>
     <category lang="en">Infotainment</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="0909090913">
@@ -3495,9 +3490,9 @@
     <desc lang="en">Live programming on Animal Planet (Infotainment).</desc>
     <category lang="en">Infotainment</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="9898989902">
-    <title lang="en">BBC Earth Live</title>
-    <desc lang="en">Live programming on BBC Earth (Infotainment).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="0909090913">
+    <title lang="en">Animal Planet Live</title>
+    <desc lang="en">Live programming on Animal Planet (Infotainment).</desc>
     <category lang="en">Infotainment</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="9898989902">
@@ -3535,9 +3530,9 @@
     <desc lang="en">Live programming on BBC Earth (Infotainment).</desc>
     <category lang="en">Infotainment</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="8787878791">
-    <title lang="en">Discovery Live</title>
-    <desc lang="en">Live programming on Discovery (Infotainment).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="9898989902">
+    <title lang="en">BBC Earth Live</title>
+    <desc lang="en">Live programming on BBC Earth (Infotainment).</desc>
     <category lang="en">Infotainment</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="8787878791">
@@ -3575,7 +3570,7 @@
     <desc lang="en">Live programming on Discovery (Infotainment).</desc>
     <category lang="en">Infotainment</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="7676767680">
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="8787878791">
     <title lang="en">Discovery Live</title>
     <desc lang="en">Live programming on Discovery (Infotainment).</desc>
     <category lang="en">Infotainment</category>
@@ -3615,9 +3610,9 @@
     <desc lang="en">Live programming on Discovery (Infotainment).</desc>
     <category lang="en">Infotainment</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="6565656569">
-    <title lang="en">Discovery Science Live</title>
-    <desc lang="en">Live programming on Discovery Science (Infotainment).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="7676767680">
+    <title lang="en">Discovery Live</title>
+    <desc lang="en">Live programming on Discovery (Infotainment).</desc>
     <category lang="en">Infotainment</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="6565656569">
@@ -3655,9 +3650,9 @@
     <desc lang="en">Live programming on Discovery Science (Infotainment).</desc>
     <category lang="en">Infotainment</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="4343434347">
-    <title lang="en">History TV18 Live</title>
-    <desc lang="en">Live programming on History TV18 (Infotainment).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="6565656569">
+    <title lang="en">Discovery Science Live</title>
+    <desc lang="en">Live programming on Discovery Science (Infotainment).</desc>
     <category lang="en">Infotainment</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="4343434347">
@@ -3695,9 +3690,9 @@
     <desc lang="en">Live programming on History TV18 (Infotainment).</desc>
     <category lang="en">Infotainment</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="3232323236">
-    <title lang="en">Investigation Discovery Live</title>
-    <desc lang="en">Live programming on Investigation Discovery (Infotainment).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="4343434347">
+    <title lang="en">History TV18 Live</title>
+    <desc lang="en">Live programming on History TV18 (Infotainment).</desc>
     <category lang="en">Infotainment</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="3232323236">
@@ -3735,9 +3730,9 @@
     <desc lang="en">Live programming on Investigation Discovery (Infotainment).</desc>
     <category lang="en">Infotainment</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="2121212125">
-    <title lang="en">Nat Geo Wild Live</title>
-    <desc lang="en">Live programming on Nat Geo Wild (Infotainment).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="3232323236">
+    <title lang="en">Investigation Discovery Live</title>
+    <desc lang="en">Live programming on Investigation Discovery (Infotainment).</desc>
     <category lang="en">Infotainment</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="2121212125">
@@ -3775,9 +3770,9 @@
     <desc lang="en">Live programming on Nat Geo Wild (Infotainment).</desc>
     <category lang="en">Infotainment</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="1010101015">
-    <title lang="en">National Geographic Live</title>
-    <desc lang="en">Live programming on National Geographic (Infotainment).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="2121212125">
+    <title lang="en">Nat Geo Wild Live</title>
+    <desc lang="en">Live programming on Nat Geo Wild (Infotainment).</desc>
     <category lang="en">Infotainment</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="1010101015">
@@ -3815,10 +3810,10 @@
     <desc lang="en">Live programming on National Geographic (Infotainment).</desc>
     <category lang="en">Infotainment</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="4321098765">
-    <title lang="en">Duronto Live</title>
-    <desc lang="en">Live programming on Duronto (Kids).</desc>
-    <category lang="en">Kids</category>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="1010101015">
+    <title lang="en">National Geographic Live</title>
+    <desc lang="en">Live programming on National Geographic (Infotainment).</desc>
+    <category lang="en">Infotainment</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="4321098765">
     <title lang="en">Duronto Live</title>
@@ -3855,9 +3850,9 @@
     <desc lang="en">Live programming on Duronto (Kids).</desc>
     <category lang="en">Kids</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="3232323234">
-    <title lang="en">ETV Bal Bharat Live</title>
-    <desc lang="en">Live programming on ETV Bal Bharat (Kids).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="4321098765">
+    <title lang="en">Duronto Live</title>
+    <desc lang="en">Live programming on Duronto (Kids).</desc>
     <category lang="en">Kids</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="3232323234">
@@ -3895,9 +3890,9 @@
     <desc lang="en">Live programming on ETV Bal Bharat (Kids).</desc>
     <category lang="en">Kids</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="2121212123">
-    <title lang="en">Cartoon Network HD+ Live</title>
-    <desc lang="en">Live programming on Cartoon Network HD+ (Kids).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="3232323234">
+    <title lang="en">ETV Bal Bharat Live</title>
+    <desc lang="en">Live programming on ETV Bal Bharat (Kids).</desc>
     <category lang="en">Kids</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="2121212123">
@@ -3935,9 +3930,9 @@
     <desc lang="en">Live programming on Cartoon Network HD+ (Kids).</desc>
     <category lang="en">Kids</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="1010101013">
-    <title lang="en">Cartoon Network Live</title>
-    <desc lang="en">Live programming on Cartoon Network (Kids).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="2121212123">
+    <title lang="en">Cartoon Network HD+ Live</title>
+    <desc lang="en">Live programming on Cartoon Network HD+ (Kids).</desc>
     <category lang="en">Kids</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="1010101013">
@@ -3975,9 +3970,9 @@
     <desc lang="en">Live programming on Cartoon Network (Kids).</desc>
     <category lang="en">Kids</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="9191919194">
-    <title lang="en">Discovery Kids Live</title>
-    <desc lang="en">Live programming on Discovery Kids (Kids).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="1010101013">
+    <title lang="en">Cartoon Network Live</title>
+    <desc lang="en">Live programming on Cartoon Network (Kids).</desc>
     <category lang="en">Kids</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="9191919194">
@@ -4015,9 +4010,9 @@
     <desc lang="en">Live programming on Discovery Kids (Kids).</desc>
     <category lang="en">Kids</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="8282828285">
-    <title lang="en">Disnep Channel Live</title>
-    <desc lang="en">Live programming on Disnep Channel (Kids).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="9191919194">
+    <title lang="en">Discovery Kids Live</title>
+    <desc lang="en">Live programming on Discovery Kids (Kids).</desc>
     <category lang="en">Kids</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="8282828285">
@@ -4055,9 +4050,9 @@
     <desc lang="en">Live programming on Disnep Channel (Kids).</desc>
     <category lang="en">Kids</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="7373737376">
-    <title lang="en">Duronto Live</title>
-    <desc lang="en">Live programming on Duronto (Kids).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="8282828285">
+    <title lang="en">Disnep Channel Live</title>
+    <desc lang="en">Live programming on Disnep Channel (Kids).</desc>
     <category lang="en">Kids</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="7373737376">
@@ -4095,9 +4090,9 @@
     <desc lang="en">Live programming on Duronto (Kids).</desc>
     <category lang="en">Kids</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="6464646467">
-    <title lang="en">Hungama Live</title>
-    <desc lang="en">Live programming on Hungama (Kids).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="7373737376">
+    <title lang="en">Duronto Live</title>
+    <desc lang="en">Live programming on Duronto (Kids).</desc>
     <category lang="en">Kids</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="6464646467">
@@ -4135,9 +4130,9 @@
     <desc lang="en">Live programming on Hungama (Kids).</desc>
     <category lang="en">Kids</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="5555555558">
-    <title lang="en">Nick Live</title>
-    <desc lang="en">Live programming on Nick (Kids).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="6464646467">
+    <title lang="en">Hungama Live</title>
+    <desc lang="en">Live programming on Hungama (Kids).</desc>
     <category lang="en">Kids</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="5555555558">
@@ -4175,9 +4170,9 @@
     <desc lang="en">Live programming on Nick (Kids).</desc>
     <category lang="en">Kids</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="4646464649">
-    <title lang="en">Nick Jr Live</title>
-    <desc lang="en">Live programming on Nick Jr (Kids).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="5555555558">
+    <title lang="en">Nick Live</title>
+    <desc lang="en">Live programming on Nick (Kids).</desc>
     <category lang="en">Kids</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="4646464649">
@@ -4215,9 +4210,9 @@
     <desc lang="en">Live programming on Nick Jr (Kids).</desc>
     <category lang="en">Kids</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="3737373740">
-    <title lang="en">Pogo Live</title>
-    <desc lang="en">Live programming on Pogo (Kids).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="4646464649">
+    <title lang="en">Nick Jr Live</title>
+    <desc lang="en">Live programming on Nick Jr (Kids).</desc>
     <category lang="en">Kids</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="3737373740">
@@ -4255,9 +4250,9 @@
     <desc lang="en">Live programming on Pogo (Kids).</desc>
     <category lang="en">Kids</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="2828282831">
-    <title lang="en">Sonic Live</title>
-    <desc lang="en">Live programming on Sonic (Kids).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="3737373740">
+    <title lang="en">Pogo Live</title>
+    <desc lang="en">Live programming on Pogo (Kids).</desc>
     <category lang="en">Kids</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="2828282831">
@@ -4295,10 +4290,10 @@
     <desc lang="en">Live programming on Sonic (Kids).</desc>
     <category lang="en">Kids</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="1919191921">
-    <title lang="en">B4U Music Live</title>
-    <desc lang="en">Live programming on B4U Music (Music).</desc>
-    <category lang="en">Music</category>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="2828282831">
+    <title lang="en">Sonic Live</title>
+    <desc lang="en">Live programming on Sonic (Kids).</desc>
+    <category lang="en">Kids</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="1919191921">
     <title lang="en">B4U Music Live</title>
@@ -4335,9 +4330,9 @@
     <desc lang="en">Live programming on B4U Music (Music).</desc>
     <category lang="en">Music</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="0909090911">
-    <title lang="en">Zing Live</title>
-    <desc lang="en">Live programming on Zing (Music).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="1919191921">
+    <title lang="en">B4U Music Live</title>
+    <desc lang="en">Live programming on B4U Music (Music).</desc>
     <category lang="en">Music</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="0909090911">
@@ -4375,9 +4370,9 @@
     <desc lang="en">Live programming on Zing (Music).</desc>
     <category lang="en">Music</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="9898989900">
-    <title lang="en">Zoom Live</title>
-    <desc lang="en">Live programming on Zoom (Music).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="0909090911">
+    <title lang="en">Zing Live</title>
+    <desc lang="en">Live programming on Zing (Music).</desc>
     <category lang="en">Music</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="9898989900">
@@ -4415,9 +4410,9 @@
     <desc lang="en">Live programming on Zoom (Music).</desc>
     <category lang="en">Music</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="2121212124">
-    <title lang="en">Hitz Live</title>
-    <desc lang="en">Live programming on Hitz (Music).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="9898989900">
+    <title lang="en">Zoom Live</title>
+    <desc lang="en">Live programming on Zoom (Music).</desc>
     <category lang="en">Music</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="2121212124">
@@ -4455,9 +4450,9 @@
     <desc lang="en">Live programming on Hitz (Music).</desc>
     <category lang="en">Music</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="1919191924">
-    <title lang="en">9x Jalwa Live</title>
-    <desc lang="en">Live programming on 9x Jalwa (Music).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="2121212124">
+    <title lang="en">Hitz Live</title>
+    <desc lang="en">Live programming on Hitz (Music).</desc>
     <category lang="en">Music</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="1919191924">
@@ -4495,9 +4490,9 @@
     <desc lang="en">Live programming on 9x Jalwa (Music).</desc>
     <category lang="en">Music</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="0909090914">
-    <title lang="en">B4U Music Live</title>
-    <desc lang="en">Live programming on B4U Music (Music).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="1919191924">
+    <title lang="en">9x Jalwa Live</title>
+    <desc lang="en">Live programming on 9x Jalwa (Music).</desc>
     <category lang="en">Music</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="0909090914">
@@ -4535,9 +4530,9 @@
     <desc lang="en">Live programming on B4U Music (Music).</desc>
     <category lang="en">Music</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="9898989903">
-    <title lang="en">Sangeet Bangla Live</title>
-    <desc lang="en">Live programming on Sangeet Bangla (Music).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="0909090914">
+    <title lang="en">B4U Music Live</title>
+    <desc lang="en">Live programming on B4U Music (Music).</desc>
     <category lang="en">Music</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="9898989903">
@@ -4575,9 +4570,9 @@
     <desc lang="en">Live programming on Sangeet Bangla (Music).</desc>
     <category lang="en">Music</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="8787878792">
-    <title lang="en">Mastiii Live</title>
-    <desc lang="en">Live programming on Mastiii (Music).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="9898989903">
+    <title lang="en">Sangeet Bangla Live</title>
+    <desc lang="en">Live programming on Sangeet Bangla (Music).</desc>
     <category lang="en">Music</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="8787878792">
@@ -4615,9 +4610,9 @@
     <desc lang="en">Live programming on Mastiii (Music).</desc>
     <category lang="en">Music</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="7676767681">
-    <title lang="en">Trace Urban Live</title>
-    <desc lang="en">Live programming on Trace Urban (Music).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="8787878792">
+    <title lang="en">Mastiii Live</title>
+    <desc lang="en">Live programming on Mastiii (Music).</desc>
     <category lang="en">Music</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="7676767681">
@@ -4655,9 +4650,9 @@
     <desc lang="en">Live programming on Trace Urban (Music).</desc>
     <category lang="en">Music</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="6565656570">
-    <title lang="en">Show Box Live</title>
-    <desc lang="en">Live programming on Show Box (Music).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="7676767681">
+    <title lang="en">Trace Urban Live</title>
+    <desc lang="en">Live programming on Trace Urban (Music).</desc>
     <category lang="en">Music</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="6565656570">
@@ -4695,9 +4690,9 @@
     <desc lang="en">Live programming on Show Box (Music).</desc>
     <category lang="en">Music</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="5454545458">
-    <title lang="en">yrf Music Live</title>
-    <desc lang="en">Live programming on yrf Music (Music).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="6565656570">
+    <title lang="en">Show Box Live</title>
+    <desc lang="en">Live programming on Show Box (Music).</desc>
     <category lang="en">Music</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="5454545458">
@@ -4735,10 +4730,10 @@
     <desc lang="en">Live programming on yrf Music (Music).</desc>
     <category lang="en">Music</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="4433221100">
-    <title lang="en">ATN News Live</title>
-    <desc lang="en">Live programming on ATN News (News).</desc>
-    <category lang="en">News</category>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="5454545458">
+    <title lang="en">yrf Music Live</title>
+    <desc lang="en">Live programming on yrf Music (Music).</desc>
+    <category lang="en">Music</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="4433221100">
     <title lang="en">ATN News Live</title>
@@ -4775,9 +4770,9 @@
     <desc lang="en">Live programming on ATN News (News).</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="1231231234">
-    <title lang="en">BTV News Live</title>
-    <desc lang="en">Live programming on BTV News (News).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="4433221100">
+    <title lang="en">ATN News Live</title>
+    <desc lang="en">Live programming on ATN News (News).</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="1231231234">
@@ -4815,9 +4810,9 @@
     <desc lang="en">Live programming on BTV News (News).</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="9876543210">
-    <title lang="en">Channel 24 Live</title>
-    <desc lang="en">Live programming on Channel 24 (News).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="1231231234">
+    <title lang="en">BTV News Live</title>
+    <desc lang="en">Live programming on BTV News (News).</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="9876543210">
@@ -4855,9 +4850,9 @@
     <desc lang="en">Live programming on Channel 24 (News).</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="3210987654">
-    <title lang="en">DBC Live</title>
-    <desc lang="en">Live programming on DBC (News).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="9876543210">
+    <title lang="en">Channel 24 Live</title>
+    <desc lang="en">Live programming on Channel 24 (News).</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="3210987654">
@@ -4895,9 +4890,9 @@
     <desc lang="en">Live programming on DBC (News).</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="1098765432">
-    <title lang="en">Ekhon Live</title>
-    <desc lang="en">Live programming on Ekhon (News).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="3210987654">
+    <title lang="en">DBC Live</title>
+    <desc lang="en">Live programming on DBC (News).</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="1098765432">
@@ -4935,9 +4930,9 @@
     <desc lang="en">Live programming on Ekhon (News).</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="3334445556">
-    <title lang="en">Independent Live</title>
-    <desc lang="en">Live programming on Independent (News).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="1098765432">
+    <title lang="en">Ekhon Live</title>
+    <desc lang="en">Live programming on Ekhon (News).</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="3334445556">
@@ -4975,9 +4970,9 @@
     <desc lang="en">Live programming on Independent (News).</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="4445556667">
-    <title lang="en">Jamuna TV Live</title>
-    <desc lang="en">Live programming on Jamuna TV (News).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="3334445556">
+    <title lang="en">Independent Live</title>
+    <desc lang="en">Live programming on Independent (News).</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="4445556667">
@@ -5015,9 +5010,9 @@
     <desc lang="en">Live programming on Jamuna TV (News).</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="3434343434">
-    <title lang="en">News 24 Live</title>
-    <desc lang="en">Live programming on News 24 (News).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="4445556667">
+    <title lang="en">Jamuna TV Live</title>
+    <desc lang="en">Live programming on Jamuna TV (News).</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="3434343434">
@@ -5055,9 +5050,9 @@
     <desc lang="en">Live programming on News 24 (News).</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="6767676767">
-    <title lang="en">Somoy TV Live</title>
-    <desc lang="en">Live programming on Somoy TV (News).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="3434343434">
+    <title lang="en">News 24 Live</title>
+    <desc lang="en">Live programming on News 24 (News).</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="6767676767">
@@ -5095,9 +5090,9 @@
     <desc lang="en">Live programming on Somoy TV (News).</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="7878787878">
-    <title lang="en">71 Live</title>
-    <desc lang="en">Live programming on 71 (News).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="6767676767">
+    <title lang="en">Somoy TV Live</title>
+    <desc lang="en">Live programming on Somoy TV (News).</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="7878787878">
@@ -5135,9 +5130,9 @@
     <desc lang="en">Live programming on 71 (News).</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="8282828283">
-    <title lang="en">Zee 24 Ghanta Live</title>
-    <desc lang="en">Live programming on Zee 24 Ghanta (News).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="7878787878">
+    <title lang="en">71 Live</title>
+    <desc lang="en">Live programming on 71 (News).</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="8282828283">
@@ -5175,9 +5170,9 @@
     <desc lang="en">Live programming on Zee 24 Ghanta (News).</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="5454545456">
-    <title lang="en">Geo News Live</title>
-    <desc lang="en">Live programming on Geo News (News).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="8282828283">
+    <title lang="en">Zee 24 Ghanta Live</title>
+    <desc lang="en">Live programming on Zee 24 Ghanta (News).</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="5454545456">
@@ -5215,10 +5210,10 @@
     <desc lang="en">Live programming on Geo News (News).</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="4646464651">
-    <title lang="en">Madani Channel Bangla Live</title>
-    <desc lang="en">Live programming on Madani Channel Bangla (Religious).</desc>
-    <category lang="en">Religious</category>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="5454545456">
+    <title lang="en">Geo News Live</title>
+    <desc lang="en">Live programming on Geo News (News).</desc>
+    <category lang="en">News</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="4646464651">
     <title lang="en">Madani Channel Bangla Live</title>
@@ -5255,9 +5250,9 @@
     <desc lang="en">Live programming on Madani Channel Bangla (Religious).</desc>
     <category lang="en">Religious</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="3737373742">
-    <title lang="en">Peace TV Bangla Live</title>
-    <desc lang="en">Live programming on Peace TV Bangla (Religious).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="4646464651">
+    <title lang="en">Madani Channel Bangla Live</title>
+    <desc lang="en">Live programming on Madani Channel Bangla (Religious).</desc>
     <category lang="en">Religious</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="3737373742">
@@ -5295,9 +5290,9 @@
     <desc lang="en">Live programming on Peace TV Bangla (Religious).</desc>
     <category lang="en">Religious</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="2828282833">
-    <title lang="en">Islam Channel Bangla Live</title>
-    <desc lang="en">Live programming on Islam Channel Bangla (Religious).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="3737373742">
+    <title lang="en">Peace TV Bangla Live</title>
+    <desc lang="en">Live programming on Peace TV Bangla (Religious).</desc>
     <category lang="en">Religious</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="2828282833">
@@ -5335,10 +5330,10 @@
     <desc lang="en">Live programming on Islam Channel Bangla (Religious).</desc>
     <category lang="en">Religious</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="8989898989">
-    <title lang="en">T Sports Live</title>
-    <desc lang="en">Live programming on T Sports (Sports).</desc>
-    <category lang="en">Sports</category>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="2828282833">
+    <title lang="en">Islam Channel Bangla Live</title>
+    <desc lang="en">Live programming on Islam Channel Bangla (Religious).</desc>
+    <category lang="en">Religious</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="8989898989">
     <title lang="en">T Sports Live</title>
@@ -5375,9 +5370,9 @@
     <desc lang="en">Live programming on T Sports (Sports).</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="9090909090">
-    <title lang="en">Star Sports 1 Live</title>
-    <desc lang="en">Live programming on Star Sports 1 (Sports).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="8989898989">
+    <title lang="en">T Sports Live</title>
+    <desc lang="en">Live programming on T Sports (Sports).</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="9090909090">
@@ -5415,9 +5410,9 @@
     <desc lang="en">Live programming on Star Sports 1 (Sports).</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="1010101010">
-    <title lang="en">Star Sports 2 Live</title>
-    <desc lang="en">Live programming on Star Sports 2 (Sports).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="9090909090">
+    <title lang="en">Star Sports 1 Live</title>
+    <desc lang="en">Live programming on Star Sports 1 (Sports).</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="1010101010">
@@ -5455,9 +5450,9 @@
     <desc lang="en">Live programming on Star Sports 2 (Sports).</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="2020202020">
-    <title lang="en">Star Sports 3 Live</title>
-    <desc lang="en">Live programming on Star Sports 3 (Sports).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="1010101010">
+    <title lang="en">Star Sports 2 Live</title>
+    <desc lang="en">Live programming on Star Sports 2 (Sports).</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="2020202020">
@@ -5495,9 +5490,9 @@
     <desc lang="en">Live programming on Star Sports 3 (Sports).</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="3030303030">
-    <title lang="en">Star Sports Select 1 Live</title>
-    <desc lang="en">Live programming on Star Sports Select 1 (Sports).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="2020202020">
+    <title lang="en">Star Sports 3 Live</title>
+    <desc lang="en">Live programming on Star Sports 3 (Sports).</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="3030303030">
@@ -5535,9 +5530,9 @@
     <desc lang="en">Live programming on Star Sports Select 1 (Sports).</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="4040404040">
-    <title lang="en">Star Sports Select 2 Live</title>
-    <desc lang="en">Live programming on Star Sports Select 2 (Sports).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="3030303030">
+    <title lang="en">Star Sports Select 1 Live</title>
+    <desc lang="en">Live programming on Star Sports Select 1 (Sports).</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="4040404040">
@@ -5575,9 +5570,9 @@
     <desc lang="en">Live programming on Star Sports Select 2 (Sports).</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="5050505050">
-    <title lang="en">Sony Sports Ten 1 Live</title>
-    <desc lang="en">Live programming on Sony Sports Ten 1 (Sports).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="4040404040">
+    <title lang="en">Star Sports Select 2 Live</title>
+    <desc lang="en">Live programming on Star Sports Select 2 (Sports).</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="5050505050">
@@ -5615,9 +5610,9 @@
     <desc lang="en">Live programming on Sony Sports Ten 1 (Sports).</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="6060606060">
-    <title lang="en">Sony Sports Ten 2 Live</title>
-    <desc lang="en">Live programming on Sony Sports Ten 2 (Sports).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="5050505050">
+    <title lang="en">Sony Sports Ten 1 Live</title>
+    <desc lang="en">Live programming on Sony Sports Ten 1 (Sports).</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="6060606060">
@@ -5655,9 +5650,9 @@
     <desc lang="en">Live programming on Sony Sports Ten 2 (Sports).</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="7070707070">
-    <title lang="en">Sony Sports Ten 3 Live</title>
-    <desc lang="en">Live programming on Sony Sports Ten 3 (Sports).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="6060606060">
+    <title lang="en">Sony Sports Ten 2 Live</title>
+    <desc lang="en">Live programming on Sony Sports Ten 2 (Sports).</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="7070707070">
@@ -5695,9 +5690,9 @@
     <desc lang="en">Live programming on Sony Sports Ten 3 (Sports).</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="8080808080">
-    <title lang="en">Sony Sports Ten 4 Live</title>
-    <desc lang="en">Live programming on Sony Sports Ten 4 (Sports).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="7070707070">
+    <title lang="en">Sony Sports Ten 3 Live</title>
+    <desc lang="en">Live programming on Sony Sports Ten 3 (Sports).</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="8080808080">
@@ -5735,9 +5730,9 @@
     <desc lang="en">Live programming on Sony Sports Ten 4 (Sports).</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="9191919191">
-    <title lang="en">Sony Sports Ten 5 Live</title>
-    <desc lang="en">Live programming on Sony Sports Ten 5 (Sports).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="8080808080">
+    <title lang="en">Sony Sports Ten 4 Live</title>
+    <desc lang="en">Live programming on Sony Sports Ten 4 (Sports).</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="9191919191">
@@ -5775,9 +5770,9 @@
     <desc lang="en">Live programming on Sony Sports Ten 5 (Sports).</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="8282828282">
-    <title lang="en">Ten Cricket Live</title>
-    <desc lang="en">Live programming on Ten Cricket (Sports).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="9191919191">
+    <title lang="en">Sony Sports Ten 5 Live</title>
+    <desc lang="en">Live programming on Sony Sports Ten 5 (Sports).</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="8282828282">
@@ -5815,10 +5810,10 @@
     <desc lang="en">Live programming on Ten Cricket (Sports).</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="7676767678">
-    <title lang="en">Hum TV Live</title>
-    <desc lang="en">Live programming on Hum TV (Urdu).</desc>
-    <category lang="en">Urdu</category>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="8282828282">
+    <title lang="en">Ten Cricket Live</title>
+    <desc lang="en">Live programming on Ten Cricket (Sports).</desc>
+    <category lang="en">Sports</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="7676767678">
     <title lang="en">Hum TV Live</title>
@@ -5855,9 +5850,9 @@
     <desc lang="en">Live programming on Hum TV (Urdu).</desc>
     <category lang="en">Urdu</category>
   </programme>
-  <programme start="20260712120000 +0600" stop="20260712150000 +0600" channel="6565656567">
-    <title lang="en">Hum Sitaray Live</title>
-    <desc lang="en">Live programming on Hum Sitaray (Urdu).</desc>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="7676767678">
+    <title lang="en">Hum TV Live</title>
+    <desc lang="en">Live programming on Hum TV (Urdu).</desc>
     <category lang="en">Urdu</category>
   </programme>
   <programme start="20260712150000 +0600" stop="20260712180000 +0600" channel="6565656567">
@@ -5891,6 +5886,11 @@
     <category lang="en">Urdu</category>
   </programme>
   <programme start="20260713090000 +0600" stop="20260713120000 +0600" channel="6565656567">
+    <title lang="en">Hum Sitaray Live</title>
+    <desc lang="en">Live programming on Hum Sitaray (Urdu).</desc>
+    <category lang="en">Urdu</category>
+  </programme>
+  <programme start="20260713120000 +0600" stop="20260713150000 +0600" channel="6565656567">
     <title lang="en">Hum Sitaray Live</title>
     <desc lang="en">Live programming on Hum Sitaray (Urdu).</desc>
     <category lang="en">Urdu</category>
